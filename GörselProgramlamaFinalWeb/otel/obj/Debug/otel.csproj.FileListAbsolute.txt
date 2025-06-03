@@ -1,0 +1,2018 @@
+C:\Users\berkay\Desktop\otel\otel\bin\otel.dll.config
+C:\Users\berkay\Desktop\otel\otel\bin\otel.dll
+C:\Users\berkay\Desktop\otel\otel\bin\otel.pdb
+C:\Users\berkay\Desktop\otel\otel\bin\roslyn\csc.exe
+C:\Users\berkay\Desktop\otel\otel\bin\roslyn\csc.exe.config
+C:\Users\berkay\Desktop\otel\otel\bin\roslyn\csc.rsp
+C:\Users\berkay\Desktop\otel\otel\bin\roslyn\csi.exe
+C:\Users\berkay\Desktop\otel\otel\bin\roslyn\csi.exe.config
+C:\Users\berkay\Desktop\otel\otel\bin\roslyn\csi.rsp
+C:\Users\berkay\Desktop\otel\otel\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\berkay\Desktop\otel\otel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\berkay\Desktop\otel\otel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\berkay\Desktop\otel\otel\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\berkay\Desktop\otel\otel\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\berkay\Desktop\otel\otel\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\berkay\Desktop\otel\otel\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\berkay\Desktop\otel\otel\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\berkay\Desktop\otel\otel\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\berkay\Desktop\otel\otel\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\berkay\Desktop\otel\otel\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\berkay\Desktop\otel\otel\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\berkay\Desktop\otel\otel\bin\roslyn\System.AppContext.dll
+C:\Users\berkay\Desktop\otel\otel\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\berkay\Desktop\otel\otel\bin\roslyn\System.Console.dll
+C:\Users\berkay\Desktop\otel\otel\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\berkay\Desktop\otel\otel\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\berkay\Desktop\otel\otel\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\berkay\Desktop\otel\otel\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\berkay\Desktop\otel\otel\bin\roslyn\System.IO.Compression.dll
+C:\Users\berkay\Desktop\otel\otel\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\berkay\Desktop\otel\otel\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\berkay\Desktop\otel\otel\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\berkay\Desktop\otel\otel\bin\roslyn\System.Net.Http.dll
+C:\Users\berkay\Desktop\otel\otel\bin\roslyn\System.Net.Sockets.dll
+C:\Users\berkay\Desktop\otel\otel\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\berkay\Desktop\otel\otel\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\berkay\Desktop\otel\otel\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\berkay\Desktop\otel\otel\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\berkay\Desktop\otel\otel\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\berkay\Desktop\otel\otel\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\berkay\Desktop\otel\otel\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\berkay\Desktop\otel\otel\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\berkay\Desktop\otel\otel\bin\roslyn\System.ValueTuple.dll
+C:\Users\berkay\Desktop\otel\otel\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\berkay\Desktop\otel\otel\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\berkay\Desktop\otel\otel\bin\roslyn\System.Xml.XPath.dll
+C:\Users\berkay\Desktop\otel\otel\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\berkay\Desktop\otel\otel\bin\roslyn\vbc.exe
+C:\Users\berkay\Desktop\otel\otel\bin\roslyn\vbc.exe.config
+C:\Users\berkay\Desktop\otel\otel\bin\roslyn\vbc.rsp
+C:\Users\berkay\Desktop\otel\otel\bin\roslyn\VBCSCompiler.exe
+C:\Users\berkay\Desktop\otel\otel\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\berkay\Desktop\otel\otel\bin\Antlr3.Runtime.dll
+C:\Users\berkay\Desktop\otel\otel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\berkay\Desktop\otel\otel\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\berkay\Desktop\otel\otel\bin\Newtonsoft.Json.dll
+C:\Users\berkay\Desktop\otel\otel\bin\System.Web.Helpers.dll
+C:\Users\berkay\Desktop\otel\otel\bin\System.Web.Mvc.dll
+C:\Users\berkay\Desktop\otel\otel\bin\System.Web.Optimization.dll
+C:\Users\berkay\Desktop\otel\otel\bin\System.Web.Razor.dll
+C:\Users\berkay\Desktop\otel\otel\bin\System.Web.WebPages.Deployment.dll
+C:\Users\berkay\Desktop\otel\otel\bin\System.Web.WebPages.dll
+C:\Users\berkay\Desktop\otel\otel\bin\System.Web.WebPages.Razor.dll
+C:\Users\berkay\Desktop\otel\otel\bin\WebGrease.dll
+C:\Users\berkay\Desktop\otel\otel\bin\System.Web.Helpers.xml
+C:\Users\berkay\Desktop\otel\otel\bin\System.Web.Mvc.xml
+C:\Users\berkay\Desktop\otel\otel\bin\System.Web.Optimization.xml
+C:\Users\berkay\Desktop\otel\otel\bin\System.Web.Razor.xml
+C:\Users\berkay\Desktop\otel\otel\bin\System.Web.WebPages.xml
+C:\Users\berkay\Desktop\otel\otel\bin\System.Web.WebPages.Deployment.xml
+C:\Users\berkay\Desktop\otel\otel\bin\System.Web.WebPages.Razor.xml
+C:\Users\berkay\Desktop\otel\otel\bin\Newtonsoft.Json.xml
+C:\Users\berkay\Desktop\otel\otel\bin\Antlr3.Runtime.pdb
+C:\Users\berkay\Desktop\otel\otel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\berkay\Desktop\otel\otel\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\berkay\Desktop\otel\otel\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\berkay\Desktop\otel\otel\bin\tr\System.Web.Optimization.resources.dll
+C:\Users\berkay\Desktop\otel\otel\bin\tr\System.Web.Razor.resources.dll
+C:\Users\berkay\Desktop\otel\otel\bin\tr\System.Web.WebPages.resources.dll
+C:\Users\berkay\Desktop\otel\otel\bin\tr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\berkay\Desktop\otel\otel\bin\tr\System.Web.WebPages.Razor.resources.dll
+C:\Users\berkay\Desktop\otel\otel\obj\Debug\otel.csproj.AssemblyReference.cache
+C:\Users\berkay\Desktop\otel\otel\obj\Debug\otel.csproj.CoreCompileInputs.cache
+C:\Users\berkay\Desktop\otel\otel\obj\Debug\otel.csproj.Up2Date
+C:\Users\berkay\Desktop\otel\otel\obj\Debug\otel.dll
+C:\Users\berkay\Desktop\otel\otel\obj\Debug\otel.pdb
+C:\Users\VICTUS\Downloads\otell\otel\otel\bin\otel.dll.config
+C:\Users\VICTUS\Downloads\otell\otel\otel\bin\otel.dll
+C:\Users\VICTUS\Downloads\otell\otel\otel\bin\otel.pdb
+C:\Users\VICTUS\Downloads\otell\otel\otel\bin\roslyn\csc.exe
+C:\Users\VICTUS\Downloads\otell\otel\otel\bin\roslyn\csc.exe.config
+C:\Users\VICTUS\Downloads\otell\otel\otel\bin\roslyn\csc.rsp
+C:\Users\VICTUS\Downloads\otell\otel\otel\bin\roslyn\csi.exe
+C:\Users\VICTUS\Downloads\otell\otel\otel\bin\roslyn\csi.exe.config
+C:\Users\VICTUS\Downloads\otell\otel\otel\bin\roslyn\csi.rsp
+C:\Users\VICTUS\Downloads\otell\otel\otel\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\VICTUS\Downloads\otell\otel\otel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\VICTUS\Downloads\otell\otel\otel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\VICTUS\Downloads\otell\otel\otel\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\VICTUS\Downloads\otell\otel\otel\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\VICTUS\Downloads\otell\otel\otel\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\VICTUS\Downloads\otell\otel\otel\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\VICTUS\Downloads\otell\otel\otel\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\VICTUS\Downloads\otell\otel\otel\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\VICTUS\Downloads\otell\otel\otel\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\VICTUS\Downloads\otell\otel\otel\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\VICTUS\Downloads\otell\otel\otel\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\VICTUS\Downloads\otell\otel\otel\bin\roslyn\System.AppContext.dll
+C:\Users\VICTUS\Downloads\otell\otel\otel\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\VICTUS\Downloads\otell\otel\otel\bin\roslyn\System.Console.dll
+C:\Users\VICTUS\Downloads\otell\otel\otel\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\VICTUS\Downloads\otell\otel\otel\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\VICTUS\Downloads\otell\otel\otel\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\VICTUS\Downloads\otell\otel\otel\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\VICTUS\Downloads\otell\otel\otel\bin\roslyn\System.IO.Compression.dll
+C:\Users\VICTUS\Downloads\otell\otel\otel\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\VICTUS\Downloads\otell\otel\otel\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\VICTUS\Downloads\otell\otel\otel\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\VICTUS\Downloads\otell\otel\otel\bin\roslyn\System.Net.Http.dll
+C:\Users\VICTUS\Downloads\otell\otel\otel\bin\roslyn\System.Net.Sockets.dll
+C:\Users\VICTUS\Downloads\otell\otel\otel\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\VICTUS\Downloads\otell\otel\otel\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\VICTUS\Downloads\otell\otel\otel\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\VICTUS\Downloads\otell\otel\otel\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\VICTUS\Downloads\otell\otel\otel\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\VICTUS\Downloads\otell\otel\otel\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\VICTUS\Downloads\otell\otel\otel\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\VICTUS\Downloads\otell\otel\otel\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\VICTUS\Downloads\otell\otel\otel\bin\roslyn\System.ValueTuple.dll
+C:\Users\VICTUS\Downloads\otell\otel\otel\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\VICTUS\Downloads\otell\otel\otel\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\VICTUS\Downloads\otell\otel\otel\bin\roslyn\System.Xml.XPath.dll
+C:\Users\VICTUS\Downloads\otell\otel\otel\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\VICTUS\Downloads\otell\otel\otel\bin\roslyn\vbc.exe
+C:\Users\VICTUS\Downloads\otell\otel\otel\bin\roslyn\vbc.exe.config
+C:\Users\VICTUS\Downloads\otell\otel\otel\bin\roslyn\vbc.rsp
+C:\Users\VICTUS\Downloads\otell\otel\otel\bin\roslyn\VBCSCompiler.exe
+C:\Users\VICTUS\Downloads\otell\otel\otel\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\VICTUS\Downloads\otell\otel\otel\bin\Antlr3.Runtime.dll
+C:\Users\VICTUS\Downloads\otell\otel\otel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\VICTUS\Downloads\otell\otel\otel\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\VICTUS\Downloads\otell\otel\otel\bin\Newtonsoft.Json.dll
+C:\Users\VICTUS\Downloads\otell\otel\otel\bin\System.Web.Helpers.dll
+C:\Users\VICTUS\Downloads\otell\otel\otel\bin\System.Web.Mvc.dll
+C:\Users\VICTUS\Downloads\otell\otel\otel\bin\System.Web.Optimization.dll
+C:\Users\VICTUS\Downloads\otell\otel\otel\bin\System.Web.Razor.dll
+C:\Users\VICTUS\Downloads\otell\otel\otel\bin\System.Web.WebPages.Deployment.dll
+C:\Users\VICTUS\Downloads\otell\otel\otel\bin\System.Web.WebPages.dll
+C:\Users\VICTUS\Downloads\otell\otel\otel\bin\System.Web.WebPages.Razor.dll
+C:\Users\VICTUS\Downloads\otell\otel\otel\bin\WebGrease.dll
+C:\Users\VICTUS\Downloads\otell\otel\otel\bin\System.Web.Helpers.xml
+C:\Users\VICTUS\Downloads\otell\otel\otel\bin\System.Web.Mvc.xml
+C:\Users\VICTUS\Downloads\otell\otel\otel\bin\System.Web.Optimization.xml
+C:\Users\VICTUS\Downloads\otell\otel\otel\bin\System.Web.Razor.xml
+C:\Users\VICTUS\Downloads\otell\otel\otel\bin\System.Web.WebPages.xml
+C:\Users\VICTUS\Downloads\otell\otel\otel\bin\System.Web.WebPages.Deployment.xml
+C:\Users\VICTUS\Downloads\otell\otel\otel\bin\System.Web.WebPages.Razor.xml
+C:\Users\VICTUS\Downloads\otell\otel\otel\bin\Newtonsoft.Json.xml
+C:\Users\VICTUS\Downloads\otell\otel\otel\bin\Antlr3.Runtime.pdb
+C:\Users\VICTUS\Downloads\otell\otel\otel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\VICTUS\Downloads\otell\otel\otel\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\VICTUS\Downloads\otell\otel\otel\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\VICTUS\Downloads\otell\otel\otel\bin\tr\System.Web.Optimization.resources.dll
+C:\Users\VICTUS\Downloads\otell\otel\otel\bin\tr\System.Web.Razor.resources.dll
+C:\Users\VICTUS\Downloads\otell\otel\otel\bin\tr\System.Web.WebPages.resources.dll
+C:\Users\VICTUS\Downloads\otell\otel\otel\bin\tr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\VICTUS\Downloads\otell\otel\otel\bin\tr\System.Web.WebPages.Razor.resources.dll
+C:\Users\VICTUS\Downloads\otell\otel\otel\obj\Debug\otel.csproj.AssemblyReference.cache
+C:\Users\VICTUS\Downloads\otell\otel\otel\obj\Debug\otel.csproj.CoreCompileInputs.cache
+C:\Users\VICTUS\Downloads\otell\otel\otel\obj\Debug\otel.csproj.Up2Date
+C:\Users\VICTUS\Downloads\otell\otel\otel\obj\Debug\otel.dll
+C:\Users\VICTUS\Downloads\otell\otel\otel\obj\Debug\otel.pdb
+C:\Users\berkay\Desktop\otellv3\otel\otel\bin\otel.dll.config
+C:\Users\berkay\Desktop\otellv3\otel\otel\bin\otel.dll
+C:\Users\berkay\Desktop\otellv3\otel\otel\bin\otel.pdb
+C:\Users\berkay\Desktop\otellv3\otel\otel\bin\roslyn\csc.exe
+C:\Users\berkay\Desktop\otellv3\otel\otel\bin\roslyn\csc.exe.config
+C:\Users\berkay\Desktop\otellv3\otel\otel\bin\roslyn\csc.rsp
+C:\Users\berkay\Desktop\otellv3\otel\otel\bin\roslyn\csi.exe
+C:\Users\berkay\Desktop\otellv3\otel\otel\bin\roslyn\csi.exe.config
+C:\Users\berkay\Desktop\otellv3\otel\otel\bin\roslyn\csi.rsp
+C:\Users\berkay\Desktop\otellv3\otel\otel\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\berkay\Desktop\otellv3\otel\otel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\berkay\Desktop\otellv3\otel\otel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\berkay\Desktop\otellv3\otel\otel\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\berkay\Desktop\otellv3\otel\otel\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\berkay\Desktop\otellv3\otel\otel\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\berkay\Desktop\otellv3\otel\otel\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\berkay\Desktop\otellv3\otel\otel\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\berkay\Desktop\otellv3\otel\otel\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\berkay\Desktop\otellv3\otel\otel\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\berkay\Desktop\otellv3\otel\otel\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\berkay\Desktop\otellv3\otel\otel\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\berkay\Desktop\otellv3\otel\otel\bin\roslyn\System.AppContext.dll
+C:\Users\berkay\Desktop\otellv3\otel\otel\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\berkay\Desktop\otellv3\otel\otel\bin\roslyn\System.Console.dll
+C:\Users\berkay\Desktop\otellv3\otel\otel\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\berkay\Desktop\otellv3\otel\otel\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\berkay\Desktop\otellv3\otel\otel\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\berkay\Desktop\otellv3\otel\otel\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\berkay\Desktop\otellv3\otel\otel\bin\roslyn\System.IO.Compression.dll
+C:\Users\berkay\Desktop\otellv3\otel\otel\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\berkay\Desktop\otellv3\otel\otel\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\berkay\Desktop\otellv3\otel\otel\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\berkay\Desktop\otellv3\otel\otel\bin\roslyn\System.Net.Http.dll
+C:\Users\berkay\Desktop\otellv3\otel\otel\bin\roslyn\System.Net.Sockets.dll
+C:\Users\berkay\Desktop\otellv3\otel\otel\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\berkay\Desktop\otellv3\otel\otel\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\berkay\Desktop\otellv3\otel\otel\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\berkay\Desktop\otellv3\otel\otel\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\berkay\Desktop\otellv3\otel\otel\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\berkay\Desktop\otellv3\otel\otel\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\berkay\Desktop\otellv3\otel\otel\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\berkay\Desktop\otellv3\otel\otel\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\berkay\Desktop\otellv3\otel\otel\bin\roslyn\System.ValueTuple.dll
+C:\Users\berkay\Desktop\otellv3\otel\otel\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\berkay\Desktop\otellv3\otel\otel\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\berkay\Desktop\otellv3\otel\otel\bin\roslyn\System.Xml.XPath.dll
+C:\Users\berkay\Desktop\otellv3\otel\otel\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\berkay\Desktop\otellv3\otel\otel\bin\roslyn\vbc.exe
+C:\Users\berkay\Desktop\otellv3\otel\otel\bin\roslyn\vbc.exe.config
+C:\Users\berkay\Desktop\otellv3\otel\otel\bin\roslyn\vbc.rsp
+C:\Users\berkay\Desktop\otellv3\otel\otel\bin\roslyn\VBCSCompiler.exe
+C:\Users\berkay\Desktop\otellv3\otel\otel\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\berkay\Desktop\otellv3\otel\otel\bin\Antlr3.Runtime.dll
+C:\Users\berkay\Desktop\otellv3\otel\otel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\berkay\Desktop\otellv3\otel\otel\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\berkay\Desktop\otellv3\otel\otel\bin\Newtonsoft.Json.dll
+C:\Users\berkay\Desktop\otellv3\otel\otel\bin\System.Web.Helpers.dll
+C:\Users\berkay\Desktop\otellv3\otel\otel\bin\System.Web.Mvc.dll
+C:\Users\berkay\Desktop\otellv3\otel\otel\bin\System.Web.Optimization.dll
+C:\Users\berkay\Desktop\otellv3\otel\otel\bin\System.Web.Razor.dll
+C:\Users\berkay\Desktop\otellv3\otel\otel\bin\System.Web.WebPages.Deployment.dll
+C:\Users\berkay\Desktop\otellv3\otel\otel\bin\System.Web.WebPages.dll
+C:\Users\berkay\Desktop\otellv3\otel\otel\bin\System.Web.WebPages.Razor.dll
+C:\Users\berkay\Desktop\otellv3\otel\otel\bin\WebGrease.dll
+C:\Users\berkay\Desktop\otellv3\otel\otel\bin\System.Web.Helpers.xml
+C:\Users\berkay\Desktop\otellv3\otel\otel\bin\System.Web.Mvc.xml
+C:\Users\berkay\Desktop\otellv3\otel\otel\bin\System.Web.Optimization.xml
+C:\Users\berkay\Desktop\otellv3\otel\otel\bin\System.Web.Razor.xml
+C:\Users\berkay\Desktop\otellv3\otel\otel\bin\System.Web.WebPages.xml
+C:\Users\berkay\Desktop\otellv3\otel\otel\bin\System.Web.WebPages.Deployment.xml
+C:\Users\berkay\Desktop\otellv3\otel\otel\bin\System.Web.WebPages.Razor.xml
+C:\Users\berkay\Desktop\otellv3\otel\otel\bin\Newtonsoft.Json.xml
+C:\Users\berkay\Desktop\otellv3\otel\otel\bin\Antlr3.Runtime.pdb
+C:\Users\berkay\Desktop\otellv3\otel\otel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\berkay\Desktop\otellv3\otel\otel\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\berkay\Desktop\otellv3\otel\otel\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\berkay\Desktop\otellv3\otel\otel\bin\tr\System.Web.Optimization.resources.dll
+C:\Users\berkay\Desktop\otellv3\otel\otel\bin\tr\System.Web.Razor.resources.dll
+C:\Users\berkay\Desktop\otellv3\otel\otel\bin\tr\System.Web.WebPages.resources.dll
+C:\Users\berkay\Desktop\otellv3\otel\otel\bin\tr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\berkay\Desktop\otellv3\otel\otel\bin\tr\System.Web.WebPages.Razor.resources.dll
+C:\Users\berkay\Desktop\otellv3\otel\otel\obj\Debug\otel.csproj.AssemblyReference.cache
+C:\Users\berkay\Desktop\otellv3\otel\otel\obj\Debug\otel.csproj.CoreCompileInputs.cache
+C:\Users\berkay\Desktop\otellv3\otel\otel\obj\Debug\otel.csproj.Up2Date
+C:\Users\berkay\Desktop\otellv3\otel\otel\obj\Debug\otel.dll
+C:\Users\berkay\Desktop\otellv3\otel\otel\obj\Debug\otel.pdb
+C:\Users\berkay\Desktop\otellv4\otellv3\otel\otel\bin\otel.dll.config
+C:\Users\berkay\Desktop\otellv4\otellv3\otel\otel\bin\otel.dll
+C:\Users\berkay\Desktop\otellv4\otellv3\otel\otel\bin\otel.pdb
+C:\Users\berkay\Desktop\otellv4\otellv3\otel\otel\bin\roslyn\csc.exe
+C:\Users\berkay\Desktop\otellv4\otellv3\otel\otel\bin\roslyn\csc.exe.config
+C:\Users\berkay\Desktop\otellv4\otellv3\otel\otel\bin\roslyn\csc.rsp
+C:\Users\berkay\Desktop\otellv4\otellv3\otel\otel\bin\roslyn\csi.exe
+C:\Users\berkay\Desktop\otellv4\otellv3\otel\otel\bin\roslyn\csi.exe.config
+C:\Users\berkay\Desktop\otellv4\otellv3\otel\otel\bin\roslyn\csi.rsp
+C:\Users\berkay\Desktop\otellv4\otellv3\otel\otel\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\berkay\Desktop\otellv4\otellv3\otel\otel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\berkay\Desktop\otellv4\otellv3\otel\otel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\berkay\Desktop\otellv4\otellv3\otel\otel\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\berkay\Desktop\otellv4\otellv3\otel\otel\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\berkay\Desktop\otellv4\otellv3\otel\otel\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\berkay\Desktop\otellv4\otellv3\otel\otel\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\berkay\Desktop\otellv4\otellv3\otel\otel\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\berkay\Desktop\otellv4\otellv3\otel\otel\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\berkay\Desktop\otellv4\otellv3\otel\otel\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\berkay\Desktop\otellv4\otellv3\otel\otel\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\berkay\Desktop\otellv4\otellv3\otel\otel\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\berkay\Desktop\otellv4\otellv3\otel\otel\bin\roslyn\System.AppContext.dll
+C:\Users\berkay\Desktop\otellv4\otellv3\otel\otel\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\berkay\Desktop\otellv4\otellv3\otel\otel\bin\roslyn\System.Console.dll
+C:\Users\berkay\Desktop\otellv4\otellv3\otel\otel\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\berkay\Desktop\otellv4\otellv3\otel\otel\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\berkay\Desktop\otellv4\otellv3\otel\otel\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\berkay\Desktop\otellv4\otellv3\otel\otel\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\berkay\Desktop\otellv4\otellv3\otel\otel\bin\roslyn\System.IO.Compression.dll
+C:\Users\berkay\Desktop\otellv4\otellv3\otel\otel\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\berkay\Desktop\otellv4\otellv3\otel\otel\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\berkay\Desktop\otellv4\otellv3\otel\otel\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\berkay\Desktop\otellv4\otellv3\otel\otel\bin\roslyn\System.Net.Http.dll
+C:\Users\berkay\Desktop\otellv4\otellv3\otel\otel\bin\roslyn\System.Net.Sockets.dll
+C:\Users\berkay\Desktop\otellv4\otellv3\otel\otel\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\berkay\Desktop\otellv4\otellv3\otel\otel\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\berkay\Desktop\otellv4\otellv3\otel\otel\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\berkay\Desktop\otellv4\otellv3\otel\otel\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\berkay\Desktop\otellv4\otellv3\otel\otel\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\berkay\Desktop\otellv4\otellv3\otel\otel\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\berkay\Desktop\otellv4\otellv3\otel\otel\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\berkay\Desktop\otellv4\otellv3\otel\otel\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\berkay\Desktop\otellv4\otellv3\otel\otel\bin\roslyn\System.ValueTuple.dll
+C:\Users\berkay\Desktop\otellv4\otellv3\otel\otel\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\berkay\Desktop\otellv4\otellv3\otel\otel\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\berkay\Desktop\otellv4\otellv3\otel\otel\bin\roslyn\System.Xml.XPath.dll
+C:\Users\berkay\Desktop\otellv4\otellv3\otel\otel\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\berkay\Desktop\otellv4\otellv3\otel\otel\bin\roslyn\vbc.exe
+C:\Users\berkay\Desktop\otellv4\otellv3\otel\otel\bin\roslyn\vbc.exe.config
+C:\Users\berkay\Desktop\otellv4\otellv3\otel\otel\bin\roslyn\vbc.rsp
+C:\Users\berkay\Desktop\otellv4\otellv3\otel\otel\bin\roslyn\VBCSCompiler.exe
+C:\Users\berkay\Desktop\otellv4\otellv3\otel\otel\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\berkay\Desktop\otellv4\otellv3\otel\otel\bin\Antlr3.Runtime.dll
+C:\Users\berkay\Desktop\otellv4\otellv3\otel\otel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\berkay\Desktop\otellv4\otellv3\otel\otel\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\berkay\Desktop\otellv4\otellv3\otel\otel\bin\Newtonsoft.Json.dll
+C:\Users\berkay\Desktop\otellv4\otellv3\otel\otel\bin\System.Web.Helpers.dll
+C:\Users\berkay\Desktop\otellv4\otellv3\otel\otel\bin\System.Web.Mvc.dll
+C:\Users\berkay\Desktop\otellv4\otellv3\otel\otel\bin\System.Web.Optimization.dll
+C:\Users\berkay\Desktop\otellv4\otellv3\otel\otel\bin\System.Web.Razor.dll
+C:\Users\berkay\Desktop\otellv4\otellv3\otel\otel\bin\System.Web.WebPages.Deployment.dll
+C:\Users\berkay\Desktop\otellv4\otellv3\otel\otel\bin\System.Web.WebPages.dll
+C:\Users\berkay\Desktop\otellv4\otellv3\otel\otel\bin\System.Web.WebPages.Razor.dll
+C:\Users\berkay\Desktop\otellv4\otellv3\otel\otel\bin\WebGrease.dll
+C:\Users\berkay\Desktop\otellv4\otellv3\otel\otel\bin\System.Web.Helpers.xml
+C:\Users\berkay\Desktop\otellv4\otellv3\otel\otel\bin\System.Web.Mvc.xml
+C:\Users\berkay\Desktop\otellv4\otellv3\otel\otel\bin\System.Web.Optimization.xml
+C:\Users\berkay\Desktop\otellv4\otellv3\otel\otel\bin\System.Web.Razor.xml
+C:\Users\berkay\Desktop\otellv4\otellv3\otel\otel\bin\System.Web.WebPages.xml
+C:\Users\berkay\Desktop\otellv4\otellv3\otel\otel\bin\System.Web.WebPages.Deployment.xml
+C:\Users\berkay\Desktop\otellv4\otellv3\otel\otel\bin\System.Web.WebPages.Razor.xml
+C:\Users\berkay\Desktop\otellv4\otellv3\otel\otel\bin\Newtonsoft.Json.xml
+C:\Users\berkay\Desktop\otellv4\otellv3\otel\otel\bin\Antlr3.Runtime.pdb
+C:\Users\berkay\Desktop\otellv4\otellv3\otel\otel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\berkay\Desktop\otellv4\otellv3\otel\otel\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\berkay\Desktop\otellv4\otellv3\otel\otel\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\berkay\Desktop\otellv4\otellv3\otel\otel\bin\tr\System.Web.Optimization.resources.dll
+C:\Users\berkay\Desktop\otellv4\otellv3\otel\otel\bin\tr\System.Web.Razor.resources.dll
+C:\Users\berkay\Desktop\otellv4\otellv3\otel\otel\bin\tr\System.Web.WebPages.resources.dll
+C:\Users\berkay\Desktop\otellv4\otellv3\otel\otel\bin\tr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\berkay\Desktop\otellv4\otellv3\otel\otel\bin\tr\System.Web.WebPages.Razor.resources.dll
+C:\Users\berkay\Desktop\otellv4\otellv3\otel\otel\obj\Debug\otel.csproj.AssemblyReference.cache
+C:\Users\berkay\Desktop\otellv4\otellv3\otel\otel\obj\Debug\otel.csproj.CoreCompileInputs.cache
+C:\Users\berkay\Desktop\otellv4\otellv3\otel\otel\obj\Debug\otel.csproj.Up2Date
+C:\Users\berkay\Desktop\otellv4\otellv3\otel\otel\obj\Debug\otel.dll
+C:\Users\berkay\Desktop\otellv4\otellv3\otel\otel\obj\Debug\otel.pdb
+C:\Users\berkay\Desktop\otellv4\otellv3\otel\otel\bin\BouncyCastle.Cryptography.dll
+C:\Users\berkay\Desktop\otellv4\otellv3\otel\otel\bin\Google.Protobuf.dll
+C:\Users\berkay\Desktop\otellv4\otellv3\otel\otel\bin\K4os.Compression.LZ4.dll
+C:\Users\berkay\Desktop\otellv4\otellv3\otel\otel\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\berkay\Desktop\otellv4\otellv3\otel\otel\bin\K4os.Hash.xxHash.dll
+C:\Users\berkay\Desktop\otellv4\otellv3\otel\otel\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\berkay\Desktop\otellv4\otellv3\otel\otel\bin\MySql.Data.dll
+C:\Users\berkay\Desktop\otellv4\otellv3\otel\otel\bin\System.Buffers.dll
+C:\Users\berkay\Desktop\otellv4\otellv3\otel\otel\bin\System.Configuration.ConfigurationManager.dll
+C:\Users\berkay\Desktop\otellv4\otellv3\otel\otel\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\berkay\Desktop\otellv4\otellv3\otel\otel\bin\System.IO.Pipelines.dll
+C:\Users\berkay\Desktop\otellv4\otellv3\otel\otel\bin\System.Memory.dll
+C:\Users\berkay\Desktop\otellv4\otellv3\otel\otel\bin\System.Numerics.Vectors.dll
+C:\Users\berkay\Desktop\otellv4\otellv3\otel\otel\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\berkay\Desktop\otellv4\otellv3\otel\otel\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\berkay\Desktop\otellv4\otellv3\otel\otel\bin\ZstdSharp.dll
+C:\Users\berkay\Desktop\otellv4\otellv3\otel\otel\bin\BouncyCastle.Cryptography.xml
+C:\Users\berkay\Desktop\otellv4\otellv3\otel\otel\bin\Google.Protobuf.pdb
+C:\Users\berkay\Desktop\otellv4\otellv3\otel\otel\bin\Google.Protobuf.xml
+C:\Users\berkay\Desktop\otellv4\otellv3\otel\otel\bin\K4os.Compression.LZ4.xml
+C:\Users\berkay\Desktop\otellv4\otellv3\otel\otel\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\berkay\Desktop\otellv4\otellv3\otel\otel\bin\K4os.Hash.xxHash.xml
+C:\Users\berkay\Desktop\otellv4\otellv3\otel\otel\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\berkay\Desktop\otellv4\otellv3\otel\otel\bin\MySql.Data.xml
+C:\Users\berkay\Desktop\otellv4\otellv3\otel\otel\bin\System.Buffers.xml
+C:\Users\berkay\Desktop\otellv4\otellv3\otel\otel\bin\System.Configuration.ConfigurationManager.xml
+C:\Users\berkay\Desktop\otellv4\otellv3\otel\otel\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\berkay\Desktop\otellv4\otellv3\otel\otel\bin\System.IO.Pipelines.xml
+C:\Users\berkay\Desktop\otellv4\otellv3\otel\otel\bin\System.Memory.xml
+C:\Users\berkay\Desktop\otellv4\otellv3\otel\otel\bin\System.Numerics.Vectors.xml
+C:\Users\berkay\Desktop\otellv4\otellv3\otel\otel\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\berkay\Desktop\otellv4\otellv3\otel\otel\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\berkay\Desktop\otel\otel\bin\BouncyCastle.Cryptography.dll
+C:\Users\berkay\Desktop\otel\otel\bin\Google.Protobuf.dll
+C:\Users\berkay\Desktop\otel\otel\bin\K4os.Compression.LZ4.dll
+C:\Users\berkay\Desktop\otel\otel\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\berkay\Desktop\otel\otel\bin\K4os.Hash.xxHash.dll
+C:\Users\berkay\Desktop\otel\otel\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\berkay\Desktop\otel\otel\bin\MySql.Data.dll
+C:\Users\berkay\Desktop\otel\otel\bin\System.Buffers.dll
+C:\Users\berkay\Desktop\otel\otel\bin\System.Configuration.ConfigurationManager.dll
+C:\Users\berkay\Desktop\otel\otel\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\berkay\Desktop\otel\otel\bin\System.IO.Pipelines.dll
+C:\Users\berkay\Desktop\otel\otel\bin\System.Memory.dll
+C:\Users\berkay\Desktop\otel\otel\bin\System.Numerics.Vectors.dll
+C:\Users\berkay\Desktop\otel\otel\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\berkay\Desktop\otel\otel\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\berkay\Desktop\otel\otel\bin\ZstdSharp.dll
+C:\Users\berkay\Desktop\otel\otel\bin\BouncyCastle.Cryptography.xml
+C:\Users\berkay\Desktop\otel\otel\bin\Google.Protobuf.pdb
+C:\Users\berkay\Desktop\otel\otel\bin\Google.Protobuf.xml
+C:\Users\berkay\Desktop\otel\otel\bin\K4os.Compression.LZ4.xml
+C:\Users\berkay\Desktop\otel\otel\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\berkay\Desktop\otel\otel\bin\K4os.Hash.xxHash.xml
+C:\Users\berkay\Desktop\otel\otel\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\berkay\Desktop\otel\otel\bin\MySql.Data.xml
+C:\Users\berkay\Desktop\otel\otel\bin\System.Buffers.xml
+C:\Users\berkay\Desktop\otel\otel\bin\System.Configuration.ConfigurationManager.xml
+C:\Users\berkay\Desktop\otel\otel\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\berkay\Desktop\otel\otel\bin\System.IO.Pipelines.xml
+C:\Users\berkay\Desktop\otel\otel\bin\System.Memory.xml
+C:\Users\berkay\Desktop\otel\otel\bin\System.Numerics.Vectors.xml
+C:\Users\berkay\Desktop\otel\otel\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\berkay\Desktop\otel\otel\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\VICTUS\Downloads\otel32\otel\otel\bin\otel.dll.config
+C:\Users\VICTUS\Downloads\otel32\otel\otel\bin\otel.dll
+C:\Users\VICTUS\Downloads\otel32\otel\otel\bin\otel.pdb
+C:\Users\VICTUS\Downloads\otel32\otel\otel\bin\roslyn\csc.exe
+C:\Users\VICTUS\Downloads\otel32\otel\otel\bin\roslyn\csc.exe.config
+C:\Users\VICTUS\Downloads\otel32\otel\otel\bin\roslyn\csc.rsp
+C:\Users\VICTUS\Downloads\otel32\otel\otel\bin\roslyn\csi.exe
+C:\Users\VICTUS\Downloads\otel32\otel\otel\bin\roslyn\csi.exe.config
+C:\Users\VICTUS\Downloads\otel32\otel\otel\bin\roslyn\csi.rsp
+C:\Users\VICTUS\Downloads\otel32\otel\otel\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\VICTUS\Downloads\otel32\otel\otel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\VICTUS\Downloads\otel32\otel\otel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\VICTUS\Downloads\otel32\otel\otel\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\VICTUS\Downloads\otel32\otel\otel\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\VICTUS\Downloads\otel32\otel\otel\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\VICTUS\Downloads\otel32\otel\otel\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\VICTUS\Downloads\otel32\otel\otel\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\VICTUS\Downloads\otel32\otel\otel\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\VICTUS\Downloads\otel32\otel\otel\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\VICTUS\Downloads\otel32\otel\otel\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\VICTUS\Downloads\otel32\otel\otel\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\VICTUS\Downloads\otel32\otel\otel\bin\roslyn\System.AppContext.dll
+C:\Users\VICTUS\Downloads\otel32\otel\otel\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\VICTUS\Downloads\otel32\otel\otel\bin\roslyn\System.Console.dll
+C:\Users\VICTUS\Downloads\otel32\otel\otel\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\VICTUS\Downloads\otel32\otel\otel\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\VICTUS\Downloads\otel32\otel\otel\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\VICTUS\Downloads\otel32\otel\otel\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\VICTUS\Downloads\otel32\otel\otel\bin\roslyn\System.IO.Compression.dll
+C:\Users\VICTUS\Downloads\otel32\otel\otel\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\VICTUS\Downloads\otel32\otel\otel\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\VICTUS\Downloads\otel32\otel\otel\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\VICTUS\Downloads\otel32\otel\otel\bin\roslyn\System.Net.Http.dll
+C:\Users\VICTUS\Downloads\otel32\otel\otel\bin\roslyn\System.Net.Sockets.dll
+C:\Users\VICTUS\Downloads\otel32\otel\otel\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\VICTUS\Downloads\otel32\otel\otel\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\VICTUS\Downloads\otel32\otel\otel\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\VICTUS\Downloads\otel32\otel\otel\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\VICTUS\Downloads\otel32\otel\otel\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\VICTUS\Downloads\otel32\otel\otel\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\VICTUS\Downloads\otel32\otel\otel\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\VICTUS\Downloads\otel32\otel\otel\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\VICTUS\Downloads\otel32\otel\otel\bin\roslyn\System.ValueTuple.dll
+C:\Users\VICTUS\Downloads\otel32\otel\otel\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\VICTUS\Downloads\otel32\otel\otel\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\VICTUS\Downloads\otel32\otel\otel\bin\roslyn\System.Xml.XPath.dll
+C:\Users\VICTUS\Downloads\otel32\otel\otel\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\VICTUS\Downloads\otel32\otel\otel\bin\roslyn\vbc.exe
+C:\Users\VICTUS\Downloads\otel32\otel\otel\bin\roslyn\vbc.exe.config
+C:\Users\VICTUS\Downloads\otel32\otel\otel\bin\roslyn\vbc.rsp
+C:\Users\VICTUS\Downloads\otel32\otel\otel\bin\roslyn\VBCSCompiler.exe
+C:\Users\VICTUS\Downloads\otel32\otel\otel\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\VICTUS\Downloads\otel32\otel\otel\bin\Antlr3.Runtime.dll
+C:\Users\VICTUS\Downloads\otel32\otel\otel\bin\BouncyCastle.Cryptography.dll
+C:\Users\VICTUS\Downloads\otel32\otel\otel\bin\Google.Protobuf.dll
+C:\Users\VICTUS\Downloads\otel32\otel\otel\bin\K4os.Compression.LZ4.dll
+C:\Users\VICTUS\Downloads\otel32\otel\otel\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\VICTUS\Downloads\otel32\otel\otel\bin\K4os.Hash.xxHash.dll
+C:\Users\VICTUS\Downloads\otel32\otel\otel\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\VICTUS\Downloads\otel32\otel\otel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\VICTUS\Downloads\otel32\otel\otel\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\VICTUS\Downloads\otel32\otel\otel\bin\MySql.Data.dll
+C:\Users\VICTUS\Downloads\otel32\otel\otel\bin\Newtonsoft.Json.dll
+C:\Users\VICTUS\Downloads\otel32\otel\otel\bin\System.Buffers.dll
+C:\Users\VICTUS\Downloads\otel32\otel\otel\bin\System.Configuration.ConfigurationManager.dll
+C:\Users\VICTUS\Downloads\otel32\otel\otel\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\VICTUS\Downloads\otel32\otel\otel\bin\System.IO.Pipelines.dll
+C:\Users\VICTUS\Downloads\otel32\otel\otel\bin\System.Memory.dll
+C:\Users\VICTUS\Downloads\otel32\otel\otel\bin\System.Numerics.Vectors.dll
+C:\Users\VICTUS\Downloads\otel32\otel\otel\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\VICTUS\Downloads\otel32\otel\otel\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\VICTUS\Downloads\otel32\otel\otel\bin\System.Web.Helpers.dll
+C:\Users\VICTUS\Downloads\otel32\otel\otel\bin\System.Web.Mvc.dll
+C:\Users\VICTUS\Downloads\otel32\otel\otel\bin\System.Web.Optimization.dll
+C:\Users\VICTUS\Downloads\otel32\otel\otel\bin\System.Web.Razor.dll
+C:\Users\VICTUS\Downloads\otel32\otel\otel\bin\System.Web.WebPages.Deployment.dll
+C:\Users\VICTUS\Downloads\otel32\otel\otel\bin\System.Web.WebPages.dll
+C:\Users\VICTUS\Downloads\otel32\otel\otel\bin\System.Web.WebPages.Razor.dll
+C:\Users\VICTUS\Downloads\otel32\otel\otel\bin\WebGrease.dll
+C:\Users\VICTUS\Downloads\otel32\otel\otel\bin\ZstdSharp.dll
+C:\Users\VICTUS\Downloads\otel32\otel\otel\bin\BouncyCastle.Cryptography.xml
+C:\Users\VICTUS\Downloads\otel32\otel\otel\bin\Google.Protobuf.pdb
+C:\Users\VICTUS\Downloads\otel32\otel\otel\bin\Google.Protobuf.xml
+C:\Users\VICTUS\Downloads\otel32\otel\otel\bin\K4os.Compression.LZ4.xml
+C:\Users\VICTUS\Downloads\otel32\otel\otel\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\VICTUS\Downloads\otel32\otel\otel\bin\K4os.Hash.xxHash.xml
+C:\Users\VICTUS\Downloads\otel32\otel\otel\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\VICTUS\Downloads\otel32\otel\otel\bin\MySql.Data.xml
+C:\Users\VICTUS\Downloads\otel32\otel\otel\bin\System.Buffers.xml
+C:\Users\VICTUS\Downloads\otel32\otel\otel\bin\System.Configuration.ConfigurationManager.xml
+C:\Users\VICTUS\Downloads\otel32\otel\otel\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\VICTUS\Downloads\otel32\otel\otel\bin\System.IO.Pipelines.xml
+C:\Users\VICTUS\Downloads\otel32\otel\otel\bin\System.Memory.xml
+C:\Users\VICTUS\Downloads\otel32\otel\otel\bin\System.Numerics.Vectors.xml
+C:\Users\VICTUS\Downloads\otel32\otel\otel\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\VICTUS\Downloads\otel32\otel\otel\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\VICTUS\Downloads\otel32\otel\otel\bin\System.Web.Helpers.xml
+C:\Users\VICTUS\Downloads\otel32\otel\otel\bin\System.Web.Mvc.xml
+C:\Users\VICTUS\Downloads\otel32\otel\otel\bin\System.Web.Optimization.xml
+C:\Users\VICTUS\Downloads\otel32\otel\otel\bin\System.Web.Razor.xml
+C:\Users\VICTUS\Downloads\otel32\otel\otel\bin\System.Web.WebPages.xml
+C:\Users\VICTUS\Downloads\otel32\otel\otel\bin\System.Web.WebPages.Deployment.xml
+C:\Users\VICTUS\Downloads\otel32\otel\otel\bin\System.Web.WebPages.Razor.xml
+C:\Users\VICTUS\Downloads\otel32\otel\otel\bin\Newtonsoft.Json.xml
+C:\Users\VICTUS\Downloads\otel32\otel\otel\bin\Antlr3.Runtime.pdb
+C:\Users\VICTUS\Downloads\otel32\otel\otel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\VICTUS\Downloads\otel32\otel\otel\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\VICTUS\Downloads\otel32\otel\otel\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\VICTUS\Downloads\otel32\otel\otel\bin\tr\System.Web.Optimization.resources.dll
+C:\Users\VICTUS\Downloads\otel32\otel\otel\bin\tr\System.Web.Razor.resources.dll
+C:\Users\VICTUS\Downloads\otel32\otel\otel\bin\tr\System.Web.WebPages.resources.dll
+C:\Users\VICTUS\Downloads\otel32\otel\otel\bin\tr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\VICTUS\Downloads\otel32\otel\otel\bin\tr\System.Web.WebPages.Razor.resources.dll
+C:\Users\VICTUS\Downloads\otel32\otel\otel\obj\Debug\otel.csproj.AssemblyReference.cache
+C:\Users\VICTUS\Downloads\otel32\otel\otel\obj\Debug\otel.csproj.CoreCompileInputs.cache
+C:\Users\VICTUS\Downloads\otel32\otel\otel\obj\Debug\otel.csproj.Up2Date
+C:\Users\VICTUS\Downloads\otel32\otel\otel\obj\Debug\otel.dll
+C:\Users\VICTUS\Downloads\otel32\otel\otel\obj\Debug\otel.pdb
+C:\Users\VICTUS\Downloads\otel32\otel\otel\bin\EntityFramework.dll
+C:\Users\VICTUS\Downloads\otel32\otel\otel\bin\EntityFramework.SqlServer.dll
+C:\Users\VICTUS\Downloads\otel32\otel\otel\bin\Microsoft.Bcl.HashCode.dll
+C:\Users\VICTUS\Downloads\otel32\otel\otel\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\VICTUS\Downloads\otel32\otel\otel\bin\Microsoft.EntityFrameworkCore.dll
+C:\Users\VICTUS\Downloads\otel32\otel\otel\bin\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\VICTUS\Downloads\otel32\otel\otel\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\VICTUS\Downloads\otel32\otel\otel\bin\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\VICTUS\Downloads\otel32\otel\otel\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\VICTUS\Downloads\otel32\otel\otel\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\VICTUS\Downloads\otel32\otel\otel\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\VICTUS\Downloads\otel32\otel\otel\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\VICTUS\Downloads\otel32\otel\otel\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\VICTUS\Downloads\otel32\otel\otel\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\VICTUS\Downloads\otel32\otel\otel\bin\Microsoft.Extensions.Logging.dll
+C:\Users\VICTUS\Downloads\otel32\otel\otel\bin\Microsoft.Extensions.Options.dll
+C:\Users\VICTUS\Downloads\otel32\otel\otel\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\VICTUS\Downloads\otel32\otel\otel\bin\MySql.Data.EntityFramework.dll
+C:\Users\VICTUS\Downloads\otel32\otel\otel\bin\MySql.Data.EntityFrameworkCore.dll
+C:\Users\VICTUS\Downloads\otel32\otel\otel\bin\MySqlConnector.dll
+C:\Users\VICTUS\Downloads\otel32\otel\otel\bin\System.Collections.Immutable.dll
+C:\Users\VICTUS\Downloads\otel32\otel\otel\bin\System.ComponentModel.Annotations.dll
+C:\Users\VICTUS\Downloads\otel32\otel\otel\bin\EntityFramework.xml
+C:\Users\VICTUS\Downloads\otel32\otel\otel\bin\EntityFramework.SqlServer.xml
+C:\Users\VICTUS\Downloads\otel32\otel\otel\bin\Microsoft.Bcl.HashCode.xml
+C:\Users\VICTUS\Downloads\otel32\otel\otel\bin\Microsoft.EntityFrameworkCore.xml
+C:\Users\VICTUS\Downloads\otel32\otel\otel\bin\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\VICTUS\Downloads\otel32\otel\otel\bin\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\VICTUS\Downloads\otel32\otel\otel\bin\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\VICTUS\Downloads\otel32\otel\otel\bin\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\VICTUS\Downloads\otel32\otel\otel\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\VICTUS\Downloads\otel32\otel\otel\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\VICTUS\Downloads\otel32\otel\otel\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\VICTUS\Downloads\otel32\otel\otel\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\VICTUS\Downloads\otel32\otel\otel\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\VICTUS\Downloads\otel32\otel\otel\bin\Microsoft.Extensions.Logging.xml
+C:\Users\VICTUS\Downloads\otel32\otel\otel\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\VICTUS\Downloads\otel32\otel\otel\bin\Microsoft.Extensions.Options.xml
+C:\Users\VICTUS\Downloads\otel32\otel\otel\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\VICTUS\Downloads\otel32\otel\otel\bin\MySql.Data.EntityFramework.xml
+C:\Users\VICTUS\Downloads\otel32\otel\otel\bin\MySql.Data.EntityFrameworkCore.xml
+C:\Users\VICTUS\Downloads\otel32\otel\otel\bin\MySqlConnector.xml
+C:\Users\VICTUS\Downloads\otel32\otel\otel\bin\System.Collections.Immutable.xml
+C:\Users\berkay\Desktop\otel32devam\otel\otel\bin\otel.dll.config
+C:\Users\berkay\Desktop\otel32devam\otel\otel\bin\otel.dll
+C:\Users\berkay\Desktop\otel32devam\otel\otel\bin\otel.pdb
+C:\Users\berkay\Desktop\otel32devam\otel\otel\bin\roslyn\csc.exe
+C:\Users\berkay\Desktop\otel32devam\otel\otel\bin\roslyn\csc.exe.config
+C:\Users\berkay\Desktop\otel32devam\otel\otel\bin\roslyn\csc.rsp
+C:\Users\berkay\Desktop\otel32devam\otel\otel\bin\roslyn\csi.exe
+C:\Users\berkay\Desktop\otel32devam\otel\otel\bin\roslyn\csi.exe.config
+C:\Users\berkay\Desktop\otel32devam\otel\otel\bin\roslyn\csi.rsp
+C:\Users\berkay\Desktop\otel32devam\otel\otel\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\berkay\Desktop\otel32devam\otel\otel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\berkay\Desktop\otel32devam\otel\otel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\berkay\Desktop\otel32devam\otel\otel\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\berkay\Desktop\otel32devam\otel\otel\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\berkay\Desktop\otel32devam\otel\otel\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\berkay\Desktop\otel32devam\otel\otel\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\berkay\Desktop\otel32devam\otel\otel\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\berkay\Desktop\otel32devam\otel\otel\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\berkay\Desktop\otel32devam\otel\otel\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\berkay\Desktop\otel32devam\otel\otel\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\berkay\Desktop\otel32devam\otel\otel\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\berkay\Desktop\otel32devam\otel\otel\bin\roslyn\System.AppContext.dll
+C:\Users\berkay\Desktop\otel32devam\otel\otel\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\berkay\Desktop\otel32devam\otel\otel\bin\roslyn\System.Console.dll
+C:\Users\berkay\Desktop\otel32devam\otel\otel\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\berkay\Desktop\otel32devam\otel\otel\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\berkay\Desktop\otel32devam\otel\otel\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\berkay\Desktop\otel32devam\otel\otel\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\berkay\Desktop\otel32devam\otel\otel\bin\roslyn\System.IO.Compression.dll
+C:\Users\berkay\Desktop\otel32devam\otel\otel\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\berkay\Desktop\otel32devam\otel\otel\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\berkay\Desktop\otel32devam\otel\otel\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\berkay\Desktop\otel32devam\otel\otel\bin\roslyn\System.Net.Http.dll
+C:\Users\berkay\Desktop\otel32devam\otel\otel\bin\roslyn\System.Net.Sockets.dll
+C:\Users\berkay\Desktop\otel32devam\otel\otel\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\berkay\Desktop\otel32devam\otel\otel\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\berkay\Desktop\otel32devam\otel\otel\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\berkay\Desktop\otel32devam\otel\otel\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\berkay\Desktop\otel32devam\otel\otel\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\berkay\Desktop\otel32devam\otel\otel\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\berkay\Desktop\otel32devam\otel\otel\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\berkay\Desktop\otel32devam\otel\otel\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\berkay\Desktop\otel32devam\otel\otel\bin\roslyn\System.ValueTuple.dll
+C:\Users\berkay\Desktop\otel32devam\otel\otel\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\berkay\Desktop\otel32devam\otel\otel\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\berkay\Desktop\otel32devam\otel\otel\bin\roslyn\System.Xml.XPath.dll
+C:\Users\berkay\Desktop\otel32devam\otel\otel\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\berkay\Desktop\otel32devam\otel\otel\bin\roslyn\vbc.exe
+C:\Users\berkay\Desktop\otel32devam\otel\otel\bin\roslyn\vbc.exe.config
+C:\Users\berkay\Desktop\otel32devam\otel\otel\bin\roslyn\vbc.rsp
+C:\Users\berkay\Desktop\otel32devam\otel\otel\bin\roslyn\VBCSCompiler.exe
+C:\Users\berkay\Desktop\otel32devam\otel\otel\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\berkay\Desktop\otel32devam\otel\otel\bin\Antlr3.Runtime.dll
+C:\Users\berkay\Desktop\otel32devam\otel\otel\bin\BouncyCastle.Cryptography.dll
+C:\Users\berkay\Desktop\otel32devam\otel\otel\bin\EntityFramework.dll
+C:\Users\berkay\Desktop\otel32devam\otel\otel\bin\EntityFramework.SqlServer.dll
+C:\Users\berkay\Desktop\otel32devam\otel\otel\bin\Google.Protobuf.dll
+C:\Users\berkay\Desktop\otel32devam\otel\otel\bin\K4os.Compression.LZ4.dll
+C:\Users\berkay\Desktop\otel32devam\otel\otel\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\berkay\Desktop\otel32devam\otel\otel\bin\K4os.Hash.xxHash.dll
+C:\Users\berkay\Desktop\otel32devam\otel\otel\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\berkay\Desktop\otel32devam\otel\otel\bin\Microsoft.Bcl.HashCode.dll
+C:\Users\berkay\Desktop\otel32devam\otel\otel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\berkay\Desktop\otel32devam\otel\otel\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\berkay\Desktop\otel32devam\otel\otel\bin\Microsoft.EntityFrameworkCore.dll
+C:\Users\berkay\Desktop\otel32devam\otel\otel\bin\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\berkay\Desktop\otel32devam\otel\otel\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\berkay\Desktop\otel32devam\otel\otel\bin\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\berkay\Desktop\otel32devam\otel\otel\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\berkay\Desktop\otel32devam\otel\otel\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\berkay\Desktop\otel32devam\otel\otel\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\berkay\Desktop\otel32devam\otel\otel\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\berkay\Desktop\otel32devam\otel\otel\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\berkay\Desktop\otel32devam\otel\otel\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\berkay\Desktop\otel32devam\otel\otel\bin\Microsoft.Extensions.Logging.dll
+C:\Users\berkay\Desktop\otel32devam\otel\otel\bin\Microsoft.Extensions.Options.dll
+C:\Users\berkay\Desktop\otel32devam\otel\otel\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\berkay\Desktop\otel32devam\otel\otel\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\berkay\Desktop\otel32devam\otel\otel\bin\MySql.Data.dll
+C:\Users\berkay\Desktop\otel32devam\otel\otel\bin\MySql.Data.EntityFramework.dll
+C:\Users\berkay\Desktop\otel32devam\otel\otel\bin\MySql.Data.EntityFrameworkCore.dll
+C:\Users\berkay\Desktop\otel32devam\otel\otel\bin\MySqlConnector.dll
+C:\Users\berkay\Desktop\otel32devam\otel\otel\bin\Newtonsoft.Json.dll
+C:\Users\berkay\Desktop\otel32devam\otel\otel\bin\System.Buffers.dll
+C:\Users\berkay\Desktop\otel32devam\otel\otel\bin\System.Collections.Immutable.dll
+C:\Users\berkay\Desktop\otel32devam\otel\otel\bin\System.ComponentModel.Annotations.dll
+C:\Users\berkay\Desktop\otel32devam\otel\otel\bin\System.Configuration.ConfigurationManager.dll
+C:\Users\berkay\Desktop\otel32devam\otel\otel\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\berkay\Desktop\otel32devam\otel\otel\bin\System.IO.Pipelines.dll
+C:\Users\berkay\Desktop\otel32devam\otel\otel\bin\System.Memory.dll
+C:\Users\berkay\Desktop\otel32devam\otel\otel\bin\System.Numerics.Vectors.dll
+C:\Users\berkay\Desktop\otel32devam\otel\otel\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\berkay\Desktop\otel32devam\otel\otel\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\berkay\Desktop\otel32devam\otel\otel\bin\System.Web.Helpers.dll
+C:\Users\berkay\Desktop\otel32devam\otel\otel\bin\System.Web.Mvc.dll
+C:\Users\berkay\Desktop\otel32devam\otel\otel\bin\System.Web.Optimization.dll
+C:\Users\berkay\Desktop\otel32devam\otel\otel\bin\System.Web.Razor.dll
+C:\Users\berkay\Desktop\otel32devam\otel\otel\bin\System.Web.WebPages.Deployment.dll
+C:\Users\berkay\Desktop\otel32devam\otel\otel\bin\System.Web.WebPages.dll
+C:\Users\berkay\Desktop\otel32devam\otel\otel\bin\System.Web.WebPages.Razor.dll
+C:\Users\berkay\Desktop\otel32devam\otel\otel\bin\WebGrease.dll
+C:\Users\berkay\Desktop\otel32devam\otel\otel\bin\ZstdSharp.dll
+C:\Users\berkay\Desktop\otel32devam\otel\otel\bin\BouncyCastle.Cryptography.xml
+C:\Users\berkay\Desktop\otel32devam\otel\otel\bin\EntityFramework.xml
+C:\Users\berkay\Desktop\otel32devam\otel\otel\bin\EntityFramework.SqlServer.xml
+C:\Users\berkay\Desktop\otel32devam\otel\otel\bin\Google.Protobuf.pdb
+C:\Users\berkay\Desktop\otel32devam\otel\otel\bin\Google.Protobuf.xml
+C:\Users\berkay\Desktop\otel32devam\otel\otel\bin\K4os.Compression.LZ4.xml
+C:\Users\berkay\Desktop\otel32devam\otel\otel\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\berkay\Desktop\otel32devam\otel\otel\bin\K4os.Hash.xxHash.xml
+C:\Users\berkay\Desktop\otel32devam\otel\otel\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\berkay\Desktop\otel32devam\otel\otel\bin\Microsoft.Bcl.HashCode.xml
+C:\Users\berkay\Desktop\otel32devam\otel\otel\bin\Microsoft.EntityFrameworkCore.xml
+C:\Users\berkay\Desktop\otel32devam\otel\otel\bin\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\berkay\Desktop\otel32devam\otel\otel\bin\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\berkay\Desktop\otel32devam\otel\otel\bin\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\berkay\Desktop\otel32devam\otel\otel\bin\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\berkay\Desktop\otel32devam\otel\otel\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\berkay\Desktop\otel32devam\otel\otel\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\berkay\Desktop\otel32devam\otel\otel\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\berkay\Desktop\otel32devam\otel\otel\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\berkay\Desktop\otel32devam\otel\otel\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\berkay\Desktop\otel32devam\otel\otel\bin\Microsoft.Extensions.Logging.xml
+C:\Users\berkay\Desktop\otel32devam\otel\otel\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\berkay\Desktop\otel32devam\otel\otel\bin\Microsoft.Extensions.Options.xml
+C:\Users\berkay\Desktop\otel32devam\otel\otel\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\berkay\Desktop\otel32devam\otel\otel\bin\MySql.Data.xml
+C:\Users\berkay\Desktop\otel32devam\otel\otel\bin\MySql.Data.EntityFramework.xml
+C:\Users\berkay\Desktop\otel32devam\otel\otel\bin\MySql.Data.EntityFrameworkCore.xml
+C:\Users\berkay\Desktop\otel32devam\otel\otel\bin\MySqlConnector.xml
+C:\Users\berkay\Desktop\otel32devam\otel\otel\bin\System.Buffers.xml
+C:\Users\berkay\Desktop\otel32devam\otel\otel\bin\System.Collections.Immutable.xml
+C:\Users\berkay\Desktop\otel32devam\otel\otel\bin\System.Configuration.ConfigurationManager.xml
+C:\Users\berkay\Desktop\otel32devam\otel\otel\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\berkay\Desktop\otel32devam\otel\otel\bin\System.IO.Pipelines.xml
+C:\Users\berkay\Desktop\otel32devam\otel\otel\bin\System.Memory.xml
+C:\Users\berkay\Desktop\otel32devam\otel\otel\bin\System.Numerics.Vectors.xml
+C:\Users\berkay\Desktop\otel32devam\otel\otel\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\berkay\Desktop\otel32devam\otel\otel\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\berkay\Desktop\otel32devam\otel\otel\bin\System.Web.Helpers.xml
+C:\Users\berkay\Desktop\otel32devam\otel\otel\bin\System.Web.Mvc.xml
+C:\Users\berkay\Desktop\otel32devam\otel\otel\bin\System.Web.Optimization.xml
+C:\Users\berkay\Desktop\otel32devam\otel\otel\bin\System.Web.Razor.xml
+C:\Users\berkay\Desktop\otel32devam\otel\otel\bin\System.Web.WebPages.xml
+C:\Users\berkay\Desktop\otel32devam\otel\otel\bin\System.Web.WebPages.Deployment.xml
+C:\Users\berkay\Desktop\otel32devam\otel\otel\bin\System.Web.WebPages.Razor.xml
+C:\Users\berkay\Desktop\otel32devam\otel\otel\bin\Newtonsoft.Json.xml
+C:\Users\berkay\Desktop\otel32devam\otel\otel\bin\Antlr3.Runtime.pdb
+C:\Users\berkay\Desktop\otel32devam\otel\otel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\berkay\Desktop\otel32devam\otel\otel\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\berkay\Desktop\otel32devam\otel\otel\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\berkay\Desktop\otel32devam\otel\otel\bin\tr\System.Web.Optimization.resources.dll
+C:\Users\berkay\Desktop\otel32devam\otel\otel\bin\tr\System.Web.Razor.resources.dll
+C:\Users\berkay\Desktop\otel32devam\otel\otel\bin\tr\System.Web.WebPages.resources.dll
+C:\Users\berkay\Desktop\otel32devam\otel\otel\bin\tr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\berkay\Desktop\otel32devam\otel\otel\bin\tr\System.Web.WebPages.Razor.resources.dll
+C:\Users\berkay\Desktop\otel32devam\otel\otel\obj\Debug\otel.csproj.AssemblyReference.cache
+C:\Users\berkay\Desktop\otel32devam\otel\otel\obj\Debug\otel.csproj.CoreCompileInputs.cache
+C:\Users\berkay\Desktop\otel32devam\otel\otel\obj\Debug\otel.csproj.Up2Date
+C:\Users\berkay\Desktop\otel32devam\otel\otel\obj\Debug\otel.dll
+C:\Users\berkay\Desktop\otel32devam\otel\otel\obj\Debug\otel.pdb
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\bin\otel.dll.config
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\bin\otel.dll
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\bin\otel.pdb
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\bin\roslyn\csc.exe
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\bin\roslyn\csc.exe.config
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\bin\roslyn\csc.rsp
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\bin\roslyn\csi.exe
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\bin\roslyn\csi.exe.config
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\bin\roslyn\csi.rsp
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\bin\roslyn\System.AppContext.dll
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\bin\roslyn\System.Console.dll
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\bin\roslyn\System.IO.Compression.dll
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\bin\roslyn\System.Net.Http.dll
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\bin\roslyn\System.Net.Sockets.dll
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\bin\roslyn\System.ValueTuple.dll
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\bin\roslyn\System.Xml.XPath.dll
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\bin\roslyn\vbc.exe
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\bin\roslyn\vbc.exe.config
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\bin\roslyn\vbc.rsp
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\bin\roslyn\VBCSCompiler.exe
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\bin\Antlr3.Runtime.dll
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\bin\BouncyCastle.Cryptography.dll
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\bin\EntityFramework.dll
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\bin\EntityFramework.SqlServer.dll
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\bin\Google.Protobuf.dll
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\bin\K4os.Compression.LZ4.dll
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\bin\K4os.Hash.xxHash.dll
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\bin\Microsoft.Bcl.HashCode.dll
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\bin\Microsoft.EntityFrameworkCore.dll
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\bin\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\bin\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\bin\Microsoft.Extensions.Logging.dll
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\bin\Microsoft.Extensions.Options.dll
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\bin\MySql.Data.dll
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\bin\MySql.Data.EntityFramework.dll
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\bin\MySql.Data.EntityFrameworkCore.dll
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\bin\MySqlConnector.dll
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\bin\Newtonsoft.Json.dll
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\bin\System.Buffers.dll
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\bin\System.Collections.Immutable.dll
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\bin\System.ComponentModel.Annotations.dll
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\bin\System.Configuration.ConfigurationManager.dll
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\bin\System.IO.Pipelines.dll
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\bin\System.Memory.dll
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\bin\System.Numerics.Vectors.dll
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\bin\System.Web.Helpers.dll
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\bin\System.Web.Mvc.dll
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\bin\System.Web.Optimization.dll
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\bin\System.Web.Razor.dll
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\bin\System.Web.WebPages.Deployment.dll
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\bin\System.Web.WebPages.dll
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\bin\System.Web.WebPages.Razor.dll
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\bin\WebGrease.dll
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\bin\ZstdSharp.dll
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\bin\BouncyCastle.Cryptography.xml
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\bin\EntityFramework.xml
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\bin\EntityFramework.SqlServer.xml
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\bin\Google.Protobuf.pdb
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\bin\Google.Protobuf.xml
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\bin\K4os.Compression.LZ4.xml
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\bin\K4os.Hash.xxHash.xml
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\bin\Microsoft.Bcl.HashCode.xml
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\bin\Microsoft.EntityFrameworkCore.xml
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\bin\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\bin\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\bin\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\bin\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\bin\Microsoft.Extensions.Logging.xml
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\bin\Microsoft.Extensions.Options.xml
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\bin\MySql.Data.xml
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\bin\MySql.Data.EntityFramework.xml
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\bin\MySql.Data.EntityFrameworkCore.xml
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\bin\MySqlConnector.xml
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\bin\System.Buffers.xml
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\bin\System.Collections.Immutable.xml
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\bin\System.Configuration.ConfigurationManager.xml
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\bin\System.IO.Pipelines.xml
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\bin\System.Memory.xml
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\bin\System.Numerics.Vectors.xml
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\bin\System.Web.Helpers.xml
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\bin\System.Web.Mvc.xml
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\bin\System.Web.Optimization.xml
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\bin\System.Web.Razor.xml
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\bin\System.Web.WebPages.xml
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\bin\System.Web.WebPages.Deployment.xml
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\bin\System.Web.WebPages.Razor.xml
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\bin\Newtonsoft.Json.xml
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\bin\Antlr3.Runtime.pdb
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\bin\tr\System.Web.Optimization.resources.dll
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\bin\tr\System.Web.Razor.resources.dll
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\bin\tr\System.Web.WebPages.resources.dll
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\bin\tr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\bin\tr\System.Web.WebPages.Razor.resources.dll
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\obj\Debug\otel.csproj.AssemblyReference.cache
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\obj\Debug\otel.csproj.CoreCompileInputs.cache
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\obj\Debug\otel.csproj.Up2Date
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\obj\Debug\otel.dll
+C:\Users\berkay\Desktop\otelvbilmem kac\otel\obj\Debug\otel.pdb
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\bin\otel.dll.config
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\bin\otel.dll
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\bin\otel.pdb
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\bin\roslyn\csc.exe
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\bin\roslyn\csc.exe.config
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\bin\roslyn\csc.rsp
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\bin\roslyn\csi.exe
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\bin\roslyn\csi.exe.config
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\bin\roslyn\csi.rsp
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\bin\roslyn\System.AppContext.dll
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\bin\roslyn\System.Console.dll
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\bin\roslyn\System.IO.Compression.dll
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\bin\roslyn\System.Net.Http.dll
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\bin\roslyn\System.ValueTuple.dll
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\bin\roslyn\vbc.exe
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\bin\roslyn\vbc.exe.config
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\bin\roslyn\vbc.rsp
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\bin\roslyn\VBCSCompiler.exe
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\bin\Antlr3.Runtime.dll
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\bin\BouncyCastle.Cryptography.dll
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\bin\EntityFramework.dll
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\bin\EntityFramework.SqlServer.dll
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\bin\Google.Protobuf.dll
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\bin\K4os.Compression.LZ4.dll
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\bin\K4os.Hash.xxHash.dll
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\bin\Microsoft.Bcl.HashCode.dll
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\bin\Microsoft.EntityFrameworkCore.dll
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\bin\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\bin\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\bin\Microsoft.Extensions.Logging.dll
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\bin\Microsoft.Extensions.Options.dll
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\bin\MySql.Data.dll
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\bin\MySql.Data.EntityFramework.dll
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\bin\MySql.Data.EntityFrameworkCore.dll
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\bin\MySqlConnector.dll
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\bin\Newtonsoft.Json.dll
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\bin\System.Buffers.dll
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\bin\System.Collections.Immutable.dll
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\bin\System.ComponentModel.Annotations.dll
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\bin\System.Configuration.ConfigurationManager.dll
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\bin\System.IO.Pipelines.dll
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\bin\System.Memory.dll
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\bin\System.Numerics.Vectors.dll
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\bin\System.Web.Helpers.dll
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\bin\System.Web.Mvc.dll
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\bin\System.Web.Optimization.dll
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\bin\System.Web.Razor.dll
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\bin\System.Web.WebPages.dll
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\bin\System.Web.WebPages.Razor.dll
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\bin\WebGrease.dll
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\bin\ZstdSharp.dll
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\bin\BouncyCastle.Cryptography.xml
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\bin\EntityFramework.xml
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\bin\EntityFramework.SqlServer.xml
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\bin\Google.Protobuf.pdb
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\bin\Google.Protobuf.xml
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\bin\K4os.Compression.LZ4.xml
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\bin\K4os.Hash.xxHash.xml
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\bin\Microsoft.Bcl.HashCode.xml
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\bin\Microsoft.EntityFrameworkCore.xml
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\bin\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\bin\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\bin\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\bin\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\bin\Microsoft.Extensions.Logging.xml
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\bin\Microsoft.Extensions.Options.xml
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\bin\MySql.Data.xml
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\bin\MySql.Data.EntityFramework.xml
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\bin\MySql.Data.EntityFrameworkCore.xml
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\bin\MySqlConnector.xml
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\bin\System.Buffers.xml
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\bin\System.Collections.Immutable.xml
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\bin\System.Configuration.ConfigurationManager.xml
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\bin\System.IO.Pipelines.xml
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\bin\System.Memory.xml
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\bin\System.Numerics.Vectors.xml
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\bin\System.Web.Helpers.xml
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\bin\System.Web.Mvc.xml
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\bin\System.Web.Optimization.xml
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\bin\System.Web.Razor.xml
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\bin\System.Web.WebPages.xml
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\bin\System.Web.WebPages.Razor.xml
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\bin\Newtonsoft.Json.xml
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\bin\Antlr3.Runtime.pdb
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\bin\tr\System.Web.Optimization.resources.dll
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\bin\tr\System.Web.Razor.resources.dll
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\bin\tr\System.Web.WebPages.resources.dll
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\bin\tr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\bin\tr\System.Web.WebPages.Razor.resources.dll
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\obj\Debug\otel.csproj.AssemblyReference.cache
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\obj\Debug\otel.csproj.CoreCompileInputs.cache
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\obj\Debug\otel.csproj.Up2Date
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\obj\Debug\otel.dll
+C:\Users\Eren\Desktop\otelvbilmem kac\otel\obj\Debug\otel.pdb
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\bin\otel.dll.config
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\bin\otel.dll
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\bin\otel.pdb
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\bin\roslyn\csc.exe
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\bin\roslyn\csc.exe.config
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\bin\roslyn\csc.rsp
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\bin\roslyn\csi.exe
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\bin\roslyn\csi.exe.config
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\bin\roslyn\csi.rsp
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\bin\roslyn\System.AppContext.dll
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\bin\roslyn\System.Console.dll
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\bin\roslyn\System.IO.Compression.dll
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\bin\roslyn\System.Net.Http.dll
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\bin\roslyn\System.Net.Sockets.dll
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\bin\roslyn\System.ValueTuple.dll
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\bin\roslyn\System.Xml.XPath.dll
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\bin\roslyn\vbc.exe
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\bin\roslyn\vbc.exe.config
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\bin\roslyn\vbc.rsp
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\bin\roslyn\VBCSCompiler.exe
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\bin\Antlr3.Runtime.dll
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\bin\BouncyCastle.Cryptography.dll
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\bin\EntityFramework.dll
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\bin\EntityFramework.SqlServer.dll
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\bin\Google.Protobuf.dll
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\bin\K4os.Compression.LZ4.dll
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\bin\K4os.Hash.xxHash.dll
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\bin\Microsoft.Bcl.HashCode.dll
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\bin\Microsoft.EntityFrameworkCore.dll
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\bin\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\bin\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\bin\Microsoft.Extensions.Logging.dll
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\bin\Microsoft.Extensions.Options.dll
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\bin\MySql.Data.dll
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\bin\MySql.Data.EntityFramework.dll
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\bin\MySql.Data.EntityFrameworkCore.dll
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\bin\MySqlConnector.dll
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\bin\Newtonsoft.Json.dll
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\bin\System.Buffers.dll
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\bin\System.Collections.Immutable.dll
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\bin\System.ComponentModel.Annotations.dll
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\bin\System.Configuration.ConfigurationManager.dll
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\bin\System.IO.Pipelines.dll
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\bin\System.Memory.dll
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\bin\System.Numerics.Vectors.dll
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\bin\System.Web.Helpers.dll
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\bin\System.Web.Mvc.dll
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\bin\System.Web.Optimization.dll
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\bin\System.Web.Razor.dll
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\bin\System.Web.WebPages.Deployment.dll
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\bin\System.Web.WebPages.dll
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\bin\System.Web.WebPages.Razor.dll
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\bin\WebGrease.dll
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\bin\ZstdSharp.dll
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\bin\BouncyCastle.Cryptography.xml
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\bin\EntityFramework.xml
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\bin\EntityFramework.SqlServer.xml
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\bin\Google.Protobuf.pdb
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\bin\Google.Protobuf.xml
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\bin\K4os.Compression.LZ4.xml
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\bin\K4os.Hash.xxHash.xml
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\bin\Microsoft.Bcl.HashCode.xml
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\bin\Microsoft.EntityFrameworkCore.xml
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\bin\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\bin\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\bin\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\bin\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\bin\Microsoft.Extensions.Logging.xml
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\bin\Microsoft.Extensions.Options.xml
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\bin\MySql.Data.xml
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\bin\MySql.Data.EntityFramework.xml
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\bin\MySql.Data.EntityFrameworkCore.xml
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\bin\MySqlConnector.xml
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\bin\System.Buffers.xml
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\bin\System.Collections.Immutable.xml
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\bin\System.Configuration.ConfigurationManager.xml
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\bin\System.IO.Pipelines.xml
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\bin\System.Memory.xml
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\bin\System.Numerics.Vectors.xml
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\bin\System.Web.Helpers.xml
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\bin\System.Web.Mvc.xml
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\bin\System.Web.Optimization.xml
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\bin\System.Web.Razor.xml
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\bin\System.Web.WebPages.xml
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\bin\System.Web.WebPages.Deployment.xml
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\bin\System.Web.WebPages.Razor.xml
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\bin\Newtonsoft.Json.xml
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\bin\Antlr3.Runtime.pdb
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\bin\tr\System.Web.Optimization.resources.dll
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\bin\tr\System.Web.Razor.resources.dll
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\bin\tr\System.Web.WebPages.resources.dll
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\bin\tr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\bin\tr\System.Web.WebPages.Razor.resources.dll
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\obj\Debug\otel.csproj.AssemblyReference.cache
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\obj\Debug\otel.csproj.CoreCompileInputs.cache
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\obj\Debug\otel.csproj.Up2Date
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\obj\Debug\otel.dll
+C:\Users\berkay\Desktop\otelvbilmemv3\otel\obj\Debug\otel.pdb
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\bin\otel.dll.config
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\bin\otel.dll
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\bin\otel.pdb
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\bin\roslyn\csc.exe
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\bin\roslyn\csc.exe.config
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\bin\roslyn\csc.rsp
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\bin\roslyn\csi.exe
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\bin\roslyn\csi.exe.config
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\bin\roslyn\csi.rsp
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\bin\roslyn\System.AppContext.dll
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\bin\roslyn\System.Console.dll
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\bin\roslyn\System.IO.Compression.dll
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\bin\roslyn\System.Net.Http.dll
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\bin\roslyn\System.ValueTuple.dll
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\bin\roslyn\vbc.exe
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\bin\roslyn\vbc.exe.config
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\bin\roslyn\vbc.rsp
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\bin\roslyn\VBCSCompiler.exe
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\bin\Antlr3.Runtime.dll
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\bin\BouncyCastle.Cryptography.dll
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\bin\EntityFramework.dll
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\bin\EntityFramework.SqlServer.dll
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\bin\Google.Protobuf.dll
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\bin\K4os.Compression.LZ4.dll
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\bin\K4os.Hash.xxHash.dll
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\bin\Microsoft.Bcl.HashCode.dll
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\bin\Microsoft.EntityFrameworkCore.dll
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\bin\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\bin\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\bin\Microsoft.Extensions.Logging.dll
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\bin\Microsoft.Extensions.Options.dll
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\bin\MySql.Data.dll
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\bin\MySql.Data.EntityFramework.dll
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\bin\MySql.Data.EntityFrameworkCore.dll
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\bin\MySqlConnector.dll
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\bin\Newtonsoft.Json.dll
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\bin\System.Buffers.dll
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\bin\System.Collections.Immutable.dll
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\bin\System.ComponentModel.Annotations.dll
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\bin\System.Configuration.ConfigurationManager.dll
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\bin\System.IO.Pipelines.dll
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\bin\System.Memory.dll
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\bin\System.Numerics.Vectors.dll
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\bin\System.Web.Helpers.dll
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\bin\System.Web.Mvc.dll
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\bin\System.Web.Optimization.dll
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\bin\System.Web.Razor.dll
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\bin\System.Web.WebPages.dll
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\bin\System.Web.WebPages.Razor.dll
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\bin\WebGrease.dll
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\bin\ZstdSharp.dll
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\bin\BouncyCastle.Cryptography.xml
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\bin\EntityFramework.xml
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\bin\EntityFramework.SqlServer.xml
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\bin\Google.Protobuf.pdb
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\bin\Google.Protobuf.xml
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\bin\K4os.Compression.LZ4.xml
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\bin\K4os.Hash.xxHash.xml
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\bin\Microsoft.Bcl.HashCode.xml
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\bin\Microsoft.EntityFrameworkCore.xml
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\bin\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\bin\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\bin\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\bin\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\bin\Microsoft.Extensions.Logging.xml
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\bin\Microsoft.Extensions.Options.xml
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\bin\MySql.Data.xml
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\bin\MySql.Data.EntityFramework.xml
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\bin\MySql.Data.EntityFrameworkCore.xml
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\bin\MySqlConnector.xml
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\bin\System.Buffers.xml
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\bin\System.Collections.Immutable.xml
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\bin\System.Configuration.ConfigurationManager.xml
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\bin\System.IO.Pipelines.xml
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\bin\System.Memory.xml
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\bin\System.Numerics.Vectors.xml
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\bin\System.Web.Helpers.xml
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\bin\System.Web.Mvc.xml
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\bin\System.Web.Optimization.xml
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\bin\System.Web.Razor.xml
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\bin\System.Web.WebPages.xml
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\bin\System.Web.WebPages.Razor.xml
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\bin\Newtonsoft.Json.xml
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\bin\Antlr3.Runtime.pdb
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\bin\tr\System.Web.Optimization.resources.dll
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\bin\tr\System.Web.Razor.resources.dll
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\bin\tr\System.Web.WebPages.resources.dll
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\bin\tr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\bin\tr\System.Web.WebPages.Razor.resources.dll
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\obj\Debug\otel.csproj.AssemblyReference.cache
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\obj\Debug\otel.csproj.CoreCompileInputs.cache
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\obj\Debug\otel.csproj.Up2Date
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\obj\Debug\otel.dll
+C:\Users\Eren\Desktop\otelvbilmemv3\otel\obj\Debug\otel.pdb
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\bin\otel.dll.config
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\bin\otel.dll
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\bin\otel.pdb
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\bin\roslyn\csc.exe
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\bin\roslyn\csc.exe.config
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\bin\roslyn\csc.rsp
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\bin\roslyn\csi.exe
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\bin\roslyn\csi.exe.config
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\bin\roslyn\csi.rsp
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\bin\roslyn\System.AppContext.dll
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\bin\roslyn\System.Console.dll
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\bin\roslyn\System.IO.Compression.dll
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\bin\roslyn\System.Net.Http.dll
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\bin\roslyn\System.Net.Sockets.dll
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\bin\roslyn\System.ValueTuple.dll
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\bin\roslyn\System.Xml.XPath.dll
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\bin\roslyn\vbc.exe
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\bin\roslyn\vbc.exe.config
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\bin\roslyn\vbc.rsp
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\bin\roslyn\VBCSCompiler.exe
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\bin\Antlr3.Runtime.dll
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\bin\BouncyCastle.Cryptography.dll
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\bin\EntityFramework.dll
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\bin\EntityFramework.SqlServer.dll
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\bin\Google.Protobuf.dll
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\bin\K4os.Compression.LZ4.dll
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\bin\K4os.Hash.xxHash.dll
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\bin\Microsoft.Bcl.HashCode.dll
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\bin\Microsoft.EntityFrameworkCore.dll
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\bin\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\bin\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\bin\Microsoft.Extensions.Logging.dll
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\bin\Microsoft.Extensions.Options.dll
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\bin\MySql.Data.dll
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\bin\MySql.Data.EntityFramework.dll
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\bin\MySql.Data.EntityFrameworkCore.dll
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\bin\MySqlConnector.dll
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\bin\Newtonsoft.Json.dll
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\bin\System.Buffers.dll
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\bin\System.Collections.Immutable.dll
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\bin\System.ComponentModel.Annotations.dll
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\bin\System.Configuration.ConfigurationManager.dll
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\bin\System.IO.Pipelines.dll
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\bin\System.Memory.dll
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\bin\System.Numerics.Vectors.dll
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\bin\System.Web.Helpers.dll
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\bin\System.Web.Mvc.dll
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\bin\System.Web.Optimization.dll
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\bin\System.Web.Razor.dll
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\bin\System.Web.WebPages.Deployment.dll
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\bin\System.Web.WebPages.dll
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\bin\System.Web.WebPages.Razor.dll
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\bin\WebGrease.dll
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\bin\ZstdSharp.dll
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\bin\BouncyCastle.Cryptography.xml
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\bin\EntityFramework.xml
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\bin\EntityFramework.SqlServer.xml
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\bin\Google.Protobuf.pdb
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\bin\Google.Protobuf.xml
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\bin\K4os.Compression.LZ4.xml
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\bin\K4os.Hash.xxHash.xml
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\bin\Microsoft.Bcl.HashCode.xml
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\bin\Microsoft.EntityFrameworkCore.xml
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\bin\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\bin\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\bin\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\bin\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\bin\Microsoft.Extensions.Logging.xml
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\bin\Microsoft.Extensions.Options.xml
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\bin\MySql.Data.xml
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\bin\MySql.Data.EntityFramework.xml
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\bin\MySql.Data.EntityFrameworkCore.xml
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\bin\MySqlConnector.xml
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\bin\System.Buffers.xml
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\bin\System.Collections.Immutable.xml
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\bin\System.Configuration.ConfigurationManager.xml
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\bin\System.IO.Pipelines.xml
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\bin\System.Memory.xml
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\bin\System.Numerics.Vectors.xml
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\bin\System.Web.Helpers.xml
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\bin\System.Web.Mvc.xml
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\bin\System.Web.Optimization.xml
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\bin\System.Web.Razor.xml
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\bin\System.Web.WebPages.xml
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\bin\System.Web.WebPages.Deployment.xml
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\bin\System.Web.WebPages.Razor.xml
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\bin\Newtonsoft.Json.xml
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\bin\Antlr3.Runtime.pdb
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\bin\tr\System.Web.Optimization.resources.dll
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\bin\tr\System.Web.Razor.resources.dll
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\bin\tr\System.Web.WebPages.resources.dll
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\bin\tr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\bin\tr\System.Web.WebPages.Razor.resources.dll
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\obj\Debug\otel.csproj.AssemblyReference.cache
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\obj\Debug\otel.csproj.CoreCompileInputs.cache
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\obj\Debug\otel.csproj.Up2Date
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\obj\Debug\otel.dll
+C:\Users\berkay\Desktop\otelvbilmemv4\otel\obj\Debug\otel.pdb
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\obj\Debug\otel.csproj.AssemblyReference.cache
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\obj\Debug\otel.csproj.CoreCompileInputs.cache
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\obj\Debug\otel.dll
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\obj\Debug\otel.pdb
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\bin\otel.dll.config
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\bin\otel.dll
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\bin\otel.pdb
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\bin\roslyn\csc.exe
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\bin\roslyn\csc.exe.config
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\bin\roslyn\csc.rsp
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\bin\roslyn\csi.exe
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\bin\roslyn\csi.exe.config
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\bin\roslyn\csi.rsp
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\bin\roslyn\System.AppContext.dll
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\bin\roslyn\System.Console.dll
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\bin\roslyn\System.IO.Compression.dll
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\bin\roslyn\System.Net.Http.dll
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\bin\roslyn\System.Net.Sockets.dll
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\bin\roslyn\System.ValueTuple.dll
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\bin\roslyn\System.Xml.XPath.dll
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\bin\roslyn\vbc.exe
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\bin\roslyn\vbc.exe.config
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\bin\roslyn\vbc.rsp
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\bin\roslyn\VBCSCompiler.exe
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\bin\Antlr3.Runtime.dll
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\bin\BouncyCastle.Cryptography.dll
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\bin\EntityFramework.dll
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\bin\EntityFramework.SqlServer.dll
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\bin\Google.Protobuf.dll
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\bin\K4os.Compression.LZ4.dll
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\bin\K4os.Hash.xxHash.dll
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\bin\Microsoft.Bcl.HashCode.dll
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\bin\Microsoft.EntityFrameworkCore.dll
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\bin\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\bin\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\bin\Microsoft.Extensions.Logging.dll
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\bin\Microsoft.Extensions.Options.dll
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\bin\MySql.Data.dll
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\bin\MySql.Data.EntityFramework.dll
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\bin\MySql.Data.EntityFrameworkCore.dll
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\bin\MySqlConnector.dll
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\bin\Newtonsoft.Json.dll
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\bin\System.Buffers.dll
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\bin\System.Collections.Immutable.dll
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\bin\System.ComponentModel.Annotations.dll
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\bin\System.Configuration.ConfigurationManager.dll
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\bin\System.IO.Pipelines.dll
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\bin\System.Memory.dll
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\bin\System.Numerics.Vectors.dll
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\bin\System.Web.Helpers.dll
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\bin\System.Web.Mvc.dll
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\bin\System.Web.Optimization.dll
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\bin\System.Web.Razor.dll
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\bin\System.Web.WebPages.Deployment.dll
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\bin\System.Web.WebPages.dll
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\bin\System.Web.WebPages.Razor.dll
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\bin\WebGrease.dll
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\bin\ZstdSharp.dll
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\bin\BouncyCastle.Cryptography.xml
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\bin\EntityFramework.xml
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\bin\EntityFramework.SqlServer.xml
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\bin\Google.Protobuf.pdb
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\bin\Google.Protobuf.xml
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\bin\K4os.Compression.LZ4.xml
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\bin\K4os.Hash.xxHash.xml
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\bin\Microsoft.Bcl.HashCode.xml
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\bin\Microsoft.EntityFrameworkCore.xml
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\bin\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\bin\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\bin\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\bin\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\bin\Microsoft.Extensions.Logging.xml
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\bin\Microsoft.Extensions.Options.xml
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\bin\MySql.Data.xml
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\bin\MySql.Data.EntityFramework.xml
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\bin\MySql.Data.EntityFrameworkCore.xml
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\bin\MySqlConnector.xml
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\bin\System.Buffers.xml
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\bin\System.Collections.Immutable.xml
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\bin\System.Configuration.ConfigurationManager.xml
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\bin\System.IO.Pipelines.xml
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\bin\System.Memory.xml
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\bin\System.Numerics.Vectors.xml
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\bin\System.Web.Helpers.xml
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\bin\System.Web.Mvc.xml
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\bin\System.Web.Optimization.xml
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\bin\System.Web.Razor.xml
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\bin\System.Web.WebPages.xml
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\bin\System.Web.WebPages.Deployment.xml
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\bin\System.Web.WebPages.Razor.xml
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\bin\Newtonsoft.Json.xml
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\bin\Antlr3.Runtime.pdb
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\bin\tr\System.Web.Optimization.resources.dll
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\bin\tr\System.Web.Razor.resources.dll
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\bin\tr\System.Web.WebPages.resources.dll
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\bin\tr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\bin\tr\System.Web.WebPages.Razor.resources.dll
+C:\Users\berkay\Desktop\otelvbilmemv31\otel\obj\Debug\otel.csproj.Up2Date
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\bin\otel.dll.config
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\bin\otel.dll
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\bin\otel.pdb
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\bin\roslyn\csc.exe
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\bin\roslyn\csc.exe.config
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\bin\roslyn\csc.rsp
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\bin\roslyn\csi.exe
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\bin\roslyn\csi.exe.config
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\bin\roslyn\csi.rsp
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\bin\roslyn\System.AppContext.dll
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\bin\roslyn\System.Console.dll
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\bin\roslyn\System.IO.Compression.dll
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\bin\roslyn\System.Net.Http.dll
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\bin\roslyn\System.ValueTuple.dll
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\bin\roslyn\vbc.exe
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\bin\roslyn\vbc.exe.config
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\bin\roslyn\vbc.rsp
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\bin\roslyn\VBCSCompiler.exe
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\bin\Antlr3.Runtime.dll
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\bin\BouncyCastle.Cryptography.dll
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\bin\EntityFramework.dll
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\bin\EntityFramework.SqlServer.dll
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\bin\Google.Protobuf.dll
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\bin\K4os.Compression.LZ4.dll
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\bin\K4os.Hash.xxHash.dll
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\bin\Microsoft.Bcl.HashCode.dll
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\bin\Microsoft.EntityFrameworkCore.dll
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\bin\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\bin\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\bin\Microsoft.Extensions.Logging.dll
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\bin\Microsoft.Extensions.Options.dll
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\bin\MySql.Data.dll
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\bin\MySql.Data.EntityFramework.dll
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\bin\MySql.Data.EntityFrameworkCore.dll
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\bin\MySqlConnector.dll
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\bin\Newtonsoft.Json.dll
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\bin\System.Buffers.dll
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\bin\System.Collections.Immutable.dll
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\bin\System.ComponentModel.Annotations.dll
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\bin\System.Configuration.ConfigurationManager.dll
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\bin\System.IO.Pipelines.dll
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\bin\System.Memory.dll
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\bin\System.Numerics.Vectors.dll
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\bin\System.Web.Helpers.dll
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\bin\System.Web.Mvc.dll
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\bin\System.Web.Optimization.dll
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\bin\System.Web.Razor.dll
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\bin\System.Web.WebPages.dll
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\bin\System.Web.WebPages.Razor.dll
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\bin\WebGrease.dll
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\bin\ZstdSharp.dll
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\bin\BouncyCastle.Cryptography.xml
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\bin\EntityFramework.xml
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\bin\EntityFramework.SqlServer.xml
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\bin\Google.Protobuf.pdb
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\bin\Google.Protobuf.xml
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\bin\K4os.Compression.LZ4.xml
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\bin\K4os.Hash.xxHash.xml
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\bin\Microsoft.Bcl.HashCode.xml
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\bin\Microsoft.EntityFrameworkCore.xml
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\bin\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\bin\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\bin\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\bin\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\bin\Microsoft.Extensions.Logging.xml
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\bin\Microsoft.Extensions.Options.xml
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\bin\MySql.Data.xml
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\bin\MySql.Data.EntityFramework.xml
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\bin\MySql.Data.EntityFrameworkCore.xml
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\bin\MySqlConnector.xml
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\bin\System.Buffers.xml
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\bin\System.Collections.Immutable.xml
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\bin\System.Configuration.ConfigurationManager.xml
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\bin\System.IO.Pipelines.xml
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\bin\System.Memory.xml
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\bin\System.Numerics.Vectors.xml
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\bin\System.Web.Helpers.xml
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\bin\System.Web.Mvc.xml
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\bin\System.Web.Optimization.xml
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\bin\System.Web.Razor.xml
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\bin\System.Web.WebPages.xml
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\bin\System.Web.WebPages.Razor.xml
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\bin\Newtonsoft.Json.xml
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\bin\Antlr3.Runtime.pdb
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\bin\tr\System.Web.Optimization.resources.dll
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\bin\tr\System.Web.Razor.resources.dll
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\bin\tr\System.Web.WebPages.resources.dll
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\bin\tr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\bin\tr\System.Web.WebPages.Razor.resources.dll
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\obj\Debug\otel.csproj.AssemblyReference.cache
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\obj\Debug\otel.csproj.CoreCompileInputs.cache
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\obj\Debug\otel.csproj.Up2Date
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\obj\Debug\otel.dll
+C:\Users\Eren\Desktop\otelvbilmemv31\otel\obj\Debug\otel.pdb
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\bin\otel.dll.config
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\bin\otel.dll
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\bin\otel.pdb
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\bin\roslyn\csc.exe
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\bin\roslyn\csc.exe.config
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\bin\roslyn\csc.rsp
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\bin\roslyn\csi.exe
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\bin\roslyn\csi.exe.config
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\bin\roslyn\csi.rsp
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\bin\roslyn\System.AppContext.dll
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\bin\roslyn\System.Console.dll
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\bin\roslyn\System.IO.Compression.dll
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\bin\roslyn\System.Net.Http.dll
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\bin\roslyn\System.Net.Sockets.dll
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\bin\roslyn\System.ValueTuple.dll
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\bin\roslyn\System.Xml.XPath.dll
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\bin\roslyn\vbc.exe
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\bin\roslyn\vbc.exe.config
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\bin\roslyn\vbc.rsp
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\bin\roslyn\VBCSCompiler.exe
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\bin\Antlr3.Runtime.dll
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\bin\BouncyCastle.Cryptography.dll
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\bin\EntityFramework.dll
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\bin\EntityFramework.SqlServer.dll
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\bin\Google.Protobuf.dll
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\bin\K4os.Compression.LZ4.dll
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\bin\K4os.Hash.xxHash.dll
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\bin\Microsoft.Bcl.HashCode.dll
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\bin\Microsoft.EntityFrameworkCore.dll
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\bin\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\bin\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\bin\Microsoft.Extensions.Logging.dll
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\bin\Microsoft.Extensions.Options.dll
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\bin\MySql.Data.dll
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\bin\MySql.Data.EntityFramework.dll
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\bin\MySql.Data.EntityFrameworkCore.dll
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\bin\MySqlConnector.dll
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\bin\Newtonsoft.Json.dll
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\bin\System.Buffers.dll
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\bin\System.Collections.Immutable.dll
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\bin\System.ComponentModel.Annotations.dll
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\bin\System.Configuration.ConfigurationManager.dll
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\bin\System.IO.Pipelines.dll
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\bin\System.Memory.dll
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\bin\System.Numerics.Vectors.dll
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\bin\System.Web.Helpers.dll
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\bin\System.Web.Mvc.dll
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\bin\System.Web.Optimization.dll
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\bin\System.Web.Razor.dll
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\bin\System.Web.WebPages.Deployment.dll
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\bin\System.Web.WebPages.dll
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\bin\System.Web.WebPages.Razor.dll
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\bin\WebGrease.dll
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\bin\ZstdSharp.dll
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\bin\BouncyCastle.Cryptography.xml
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\bin\EntityFramework.xml
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\bin\EntityFramework.SqlServer.xml
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\bin\Google.Protobuf.pdb
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\bin\Google.Protobuf.xml
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\bin\K4os.Compression.LZ4.xml
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\bin\K4os.Hash.xxHash.xml
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\bin\Microsoft.Bcl.HashCode.xml
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\bin\Microsoft.EntityFrameworkCore.xml
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\bin\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\bin\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\bin\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\bin\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\bin\Microsoft.Extensions.Logging.xml
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\bin\Microsoft.Extensions.Options.xml
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\bin\MySql.Data.xml
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\bin\MySql.Data.EntityFramework.xml
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\bin\MySql.Data.EntityFrameworkCore.xml
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\bin\MySqlConnector.xml
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\bin\System.Buffers.xml
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\bin\System.Collections.Immutable.xml
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\bin\System.Configuration.ConfigurationManager.xml
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\bin\System.IO.Pipelines.xml
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\bin\System.Memory.xml
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\bin\System.Numerics.Vectors.xml
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\bin\System.Web.Helpers.xml
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\bin\System.Web.Mvc.xml
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\bin\System.Web.Optimization.xml
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\bin\System.Web.Razor.xml
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\bin\System.Web.WebPages.xml
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\bin\System.Web.WebPages.Deployment.xml
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\bin\System.Web.WebPages.Razor.xml
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\bin\Newtonsoft.Json.xml
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\bin\Antlr3.Runtime.pdb
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\bin\tr\System.Web.Optimization.resources.dll
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\bin\tr\System.Web.Razor.resources.dll
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\bin\tr\System.Web.WebPages.resources.dll
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\bin\tr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\bin\tr\System.Web.WebPages.Razor.resources.dll
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\obj\Debug\otel.csproj.AssemblyReference.cache
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\obj\Debug\otel.csproj.CoreCompileInputs.cache
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\obj\Debug\otel.csproj.Up2Date
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\obj\Debug\otel.dll
+C:\Users\VICTUS\Desktop\SefaKartav-HR230022-GorselProgramlamaFinal\GörselProgramlamaFinalWeb\otel\obj\Debug\otel.pdb

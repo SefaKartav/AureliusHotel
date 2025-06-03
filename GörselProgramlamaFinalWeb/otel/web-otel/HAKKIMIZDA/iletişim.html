@@ -1,0 +1,326 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>İletişim</title>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap" rel="stylesheet">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/gsap.min.js"></script>
+    <style>
+        body {
+            font-family: 'Poppins', sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f8f8f8;
+        }
+
+        .navbar {
+            background-color: #fff;
+            border-bottom: 1px solid #ddd;
+            padding: 15px 20px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+            .navbar a {
+                color: #333;
+                text-decoration: none;
+                font-size: 16px;
+                margin-right: 20px;
+                transition: color 0.3s;
+            }
+
+                .navbar a:hover {
+                    color: #ebef0c;
+                }
+
+                .navbar a.reservation {
+                    background-color: #ebef0c;
+                    color: #fff;
+                    padding: 10px 20px;
+                    border-radius: 5px;
+                    transition: background-color 0.3s;
+                }
+
+                    .navbar a.reservation:hover {
+                        background-color: #d6d80c;
+                    }
+
+        .content {
+            display: flex;
+            flex-direction: column;
+            padding: 40px;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        .map-section {
+            width: 100%;
+            height: 500px;
+            margin-bottom: 40px;
+            position: relative;
+            border-radius: 8px;
+            box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+        }
+
+        #map {
+            width: 100%;
+            height: 100%;
+            border-radius: 8px;
+        }
+
+        .map-overlay {
+            position: absolute;
+            top: 20px;
+            left: 20px;
+            background-color: #fff;
+            padding: 15px;
+            border-radius: 5px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+            font-size: 16px;
+        }
+
+            .map-overlay h3 {
+                margin: 0 0 8px;
+                font-size: 18px;
+            }
+
+            .map-overlay p {
+                margin: 8px 0;
+                color: #555;
+            }
+
+            .map-overlay a {
+                color: #007bff;
+                text-decoration: none;
+            }
+
+                .map-overlay a:hover {
+                    text-decoration: underline;
+                }
+
+        .contact-section {
+            display: flex;
+            gap: 40px;
+        }
+
+        .contact-info {
+            width: 50%;
+        }
+
+            .contact-info h1 {
+                font-size: 32px;
+                color: #333;
+                margin-bottom: 20px;
+            }
+
+            .contact-info h2 {
+                font-size: 24px;
+                color: #333;
+                margin-bottom: 15px;
+            }
+
+            .contact-info p {
+                margin: 12px 0;
+                font-size: 16px;
+                color: #555;
+                display: flex;
+                align-items: center;
+            }
+
+                .contact-info p::before {
+                    content: '';
+                    display: inline-block;
+                    width: 12px;
+                    height: 12px;
+                    background-color: #ebef0c;
+                    border-radius: 50%;
+                    margin-right: 12px;
+                }
+
+        .form-section {
+            width: 50%;
+        }
+
+            .form-section label {
+                display: block;
+                font-size: 16px;
+                color: #333;
+                margin-bottom: 8px;
+            }
+
+            .form-section input,
+            .form-section textarea {
+                width: 100%;
+                padding: 10px;
+                margin-bottom: 15px;
+                border: 1px solid #ddd;
+                border-radius: 4px;
+                font-size: 16px;
+                box-sizing: border-box;
+            }
+
+            .form-section textarea {
+                height: 120px;
+                resize: none;
+            }
+
+            .form-section button {
+                background-color: #ebef0c;
+                color: #fff;
+                border: none;
+                padding: 12px;
+                width: 100%;
+                border-radius: 4px;
+                font-size: 16px;
+                cursor: pointer;
+                text-transform: uppercase;
+                transition: background-color 0.3s;
+            }
+
+                .form-section button:hover {
+                    background-color: #d6d80c;
+                }
+
+        .whatsapp-btn {
+            position: fixed;
+            bottom: 20px;
+            right: 20px;
+            background-color: #25d366;
+            color: white;
+            padding: 12px 20px;
+            border-radius: 25px;
+            text-decoration: none;
+            font-size: 16px;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+            transition: background-color 0.3s;
+        }
+
+            .whatsapp-btn:hover {
+                background-color: #1faf54;
+            }
+
+            .whatsapp-btn img {
+                width: 24px;
+                height: 24px;
+            }
+    </style>
+</head>
+<body>
+    <div class="navbar">
+        <a href="anasayfa.aspx">KONAKLAMA</a>
+        <a href="restoran.html">RESTORAN & BARLAR</a>
+        <a href="fitness.html">SPA & FİTNESS</a>
+        <a href="#">İLETİŞİM</a>
+        <a href="/web-otel/otel.aspx" class="reservation">ANASAYFA</a>
+    </div>
+
+    <div class="content">
+        <div class="map-section">
+            <div id="map">
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3006.991261156473!2d29.08885617586287!3d41.091037571339115!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cacbab7668ecb5%3A0x3c00dcc46a55ddcc!2s%C4%B0stanbul%20Medipol%20%C3%9Cniversitesi%20Kuzey%20Yerle%C5%9Fke!5e0!3m2!1str!2str!4v1745193904025!5m2!1str!2str" width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+            </div>
+            <div class="map-overlay">
+                <h3>Aurelius</h3>
+                <p>Kavacık, Ekinciler Cd. No:19, 34810 Beykoz/İstanbul</p>
+                <p>Tel: 552 272 0352</p>
+                <p>Email: <a href="mailto:aurelius@aureliushotels.com.tr">aurelius@aureliushotels.com.tr</a></p>
+            </div>
+        </div>
+
+        <div class="contact-section">
+            <div class="contact-info">
+                <h1>İLETİŞİM</h1>
+                <h2>Aurelius</h2>
+                <p><strong>ADRES</strong> Kavacık, Ekinciler Cd. No:19, 34810 Beykoz/İstanbul</p>
+                <p><strong>TELEFON / FAKS</strong> 552 272 0352<br> 552 272 0352</p>
+                <p><strong>E-MAIL</strong> aurelius@aureliushotels.com.tr</p>
+                <p><strong>ÇAĞRI MERKEZİ</strong> 552 272 0352</p>
+            </div>
+            <div class="form-section">
+                <form id="contact-form">
+                    <label for="name">Ad Soyad</label>
+                    <input type="text" id="name" name="name" required>
+
+                    <label for="phone">Telefon</label>
+                    <input type="tel" id="phone" name="phone" required>
+
+                    <label for="email">Email</label>
+                    <input type="email" id="email" name="email" required>
+
+                    <label for="message">Mesaj</label>
+                    <textarea id="message" name="message" required></textarea>
+
+                    <button type="submit">GÖNDER</button>
+                </form>
+            </div>
+        </div>
+    </div>
+
+    <a href="https://wa.me/+905522720352" target="_blank" class="whatsapp-btn">
+        <img src="https://img.icons8.com/color/48/000000/whatsapp.png" alt="WhatsApp">
+        WhatsApp İletişim
+    </a>
+
+    <script>
+        document.getElementById('contact-form').addEventListener('submit', function (event) {
+            event.preventDefault();
+            alert('Mesajınız gönderildi!');
+            this.reset();
+        });
+
+        document.addEventListener('DOMContentLoaded', () => {
+            // Animate navbar links
+            gsap.from('.navbar a', {
+                opacity: 0,
+                y: -20,
+                duration: 0.8,
+                stagger: 0.1,
+                ease: 'power2.out'
+            });
+
+            // Animate map section
+            gsap.from('.map-section', {
+                opacity: 0,
+                scale: 0.9,
+                duration: 1.2,
+                ease: 'power2.out',
+                delay: 0.2
+            });
+
+            // Animate contact info
+            gsap.from('.contact-info h1, .contact-info h2, .contact-info p', {
+                opacity: 0,
+                y: 30,
+                duration: 1,
+                stagger: 0.2,
+                ease: 'power2.out',
+                delay: 0.4
+            });
+
+            // Animate contact form
+            gsap.from('.form-section label, .form-section input, .form-section textarea, .form-section button', {
+                opacity: 0,
+                y: 30,
+                duration: 1,
+                stagger: 0.2,
+                ease: 'power2.out',
+                delay: 0.6
+            });
+
+            // Animate WhatsApp button
+            gsap.from('.whatsapp-btn', {
+                opacity: 0,
+                y: 50,
+                duration: 0.8,
+                ease: 'power2.out',
+                delay: 0.8
+            });
+        });
+    </script>
+</body>
+</html>

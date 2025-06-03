@@ -1,0 +1,451 @@
+﻿* {
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    margin: 0px;
+    font-family: "Open Sans", sans-serif;
+}
+
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: fixed;
+    width: 100%;
+    height: 80px;
+    background-color: rgba(255,255,255,0.0);
+    z-index: 10;
+    padding: 0;
+}
+
+.logo-container {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    margin: 0;
+}
+
+    .logo-container img {
+        width: 150px;
+        height: auto;
+        display: block;
+    }
+
+.nav-right {
+    flex: 0 0 auto;
+    margin-right: 30px;
+    margin-left: 0;
+}
+
+.header ul {
+    margin: 0;
+    list-style-type: none;
+    padding: 0;
+    display: flex;
+    align-items: center;
+}
+
+    .header ul li {
+        display: table-cell;
+    }
+
+        .header ul li a {
+            display: inline-block;
+            text-decoration: none;
+            padding: 0 15px;
+            color: white;
+            border-top: 5px solid transparent;
+            font-size: 16px;
+            line-height: 50px;
+            height: 80px;
+            box-sizing: border-box;
+        }
+
+            .header ul li a:hover {
+                border-top: 5px solid white;
+            }
+
+.toggle-btn {
+    display: none;
+    position: absolute;
+    top: 8px;
+    left: auto;
+    right: 30px;
+    font-size: 30px;
+    cursor: pointer;
+    z-index: 100;
+}
+
+.header-scroll {
+    height: 60px;
+    background-color: rgba(255,255,255,1);
+    animation: top-in-basic 1 0.2s 0s;
+}
+
+    .header-scroll ul li a {
+        padding: 15px 15px;
+        color: #1e1e1e;
+    }
+
+        .header-scroll ul li a:hover {
+            border-top: 5px solid black;
+        }
+
+    .header-scroll .logo-container {
+        animation: left-in-basic 1 0.8s 0s;
+    }
+
+.display-none-mobile {
+    display: table;
+}
+
+.display-block {
+    display: table;
+}
+
+@media (max-width: 600px) {
+    .nav > .nav-btn {
+        display: inline-block;
+        position: absolute;
+        right: 0px;
+        top: 0px;
+    }
+
+    .nav > .nav-links {
+        position: absolute;
+        display: block;
+        width: 100%;
+        background-color: #333;
+        height: 0px;
+        transition: all 0.3s ease-in;
+        overflow-y: hidden;
+        top: 50px;
+        left: 0px;
+    }
+
+        .nav > .nav-links > a {
+            display: block;
+            width: 100%;
+        }
+}
+
+.main-header {
+    background-image: url("/web-otel/img/anasayfa1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    color: #fff;
+    position: relative;
+    display: block;
+}
+
+    .main-header .content {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+        height: 100%;
+    }
+
+    .main-header::before {
+        content: "";
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background: rgba(0, 0, 0, 0.4);
+    }
+
+    .main-header * {
+        z-index: 5;
+    }
+
+    .main-header .content h1 {
+        font-size: 5rem;
+    }
+
+    .main-header .content .subtitle {
+        font-size: 2.3rem;
+        max-width: 60rem;
+        margin: 1rem;
+        margin-bottom: 150px;
+        color: #ebef0c;
+    }
+
+.icon-container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    column-gap: 150px;
+    row-gap: 60px;
+    text-align: center;
+    padding: 40px;
+}
+
+    .icon-container div {
+        margin: 20px;
+    }
+
+    .icon-container i {
+        font-size: 70px;
+        color: #ebef0c;
+        padding: 20px;
+    }
+
+        .icon-container i:hover {
+            transition: 0.5s;
+            color: black;
+        }
+
+.gallery-section {
+    padding: 50px 20px;
+    margin-bottom: 80px; /* Otelimizdeki Yerler ile Personeller arasına boşluk */
+}
+
+.gallery-title {
+    text-align: center;
+    font-size: 40px;
+    margin-bottom: 30px;
+}
+
+.gallery-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+}
+
+.gallery-card {
+    background: #fff;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    width: 350px;
+    transition: transform 0.3s;
+}
+
+    .gallery-card:hover {
+        transform: scale(1.05);
+    }
+
+.gallery-img {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+}
+
+.gallery-desc {
+    padding: 15px;
+    text-align: center;
+}
+
+    .gallery-desc h3 {
+        margin: 0 0 10px;
+        font-size: 1.5rem;
+        color: #333;
+    }
+
+    .gallery-desc p {
+        margin: 0;
+        font-size: 1rem;
+        color: #666;
+    }
+
+.subtitle2 {
+    text-align: center;
+    font-size: 20px;
+    font-family: Noto Sans;
+    letter-spacing: 1px;
+    padding-bottom: 15px;
+}
+
+.card-section {
+    padding: 50px;
+}
+
+.card-container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    column-gap: 25px;
+    margin-bottom: 20px;
+}
+
+.card {
+    min-width: 0;
+    margin: 5px;
+    box-shadow: 0 0 2px 1px rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    transition: 0.8s ease;
+}
+
+    .card p {
+        padding-left: 10px;
+    }
+
+    .card:hover {
+        transform: scale(1.1);
+    }
+
+    .card img {
+        width: 450px;
+        max-height: 300px;
+        max-width: 100%;
+    }
+
+.card-title {
+    text-align: center;
+    font-family: Noto Sans;
+    color: #000;
+    margin: 5px;
+    letter-spacing: 1px;
+}
+
+.person-section img {
+    width: 300px;
+    height: 300px;
+    max-width: 100%;
+    border-radius: 15px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+    object-fit: cover;
+}
+
+.person-section {
+    margin-top: 200px;
+}
+
+.card2 img:hover {
+    transform: scale(1.1);
+    transition: 0.8s ease;
+}
+.card2 {
+    padding-left: 20px;
+    padding-right: 20px;
+    margin: 5px;
+
+}
+.card2 p {
+    padding-left: 30px;
+}
+
+footer {
+    margin-bottom: 0;
+    padding: 20px;
+    background-color: #000;
+    color: #eee;
+}
+
+.flex-container4 {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    column-gap: 170px;
+    margin-bottom: 20px;
+}
+
+.logo {
+    margin-top: 30px;
+    font-size: 30px;
+}
+
+.footer-copy {
+    font-size: 12px;
+}
+
+.footer-paragraf {
+    font-size: 12px;
+}
+
+.scMedia-icons {
+    font-size: 22px;
+    padding-top: 15px;
+}
+
+#btn {
+    position: fixed;
+    bottom: 10px;
+    right: 15px;
+    z-index: 5;
+    font-size: 15px;
+    background-color: orange;
+    color: black;
+    cursor: pointer;
+    padding: 20px;
+    border-radius: 6px;
+}
+
+/* Yeni stiller: Resimler ve açıklama alanı için */
+.flex-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    padding: 20px;
+}
+
+.image-card {
+    display: flex;
+    align-items: center;
+    width: 600px;
+    background: #fff;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    margin: 10px;
+}
+
+    .image-card img {
+        width: 250px;
+        height: 150px;
+        object-fit: cover;
+    }
+
+    .image-card .description {
+        flex: 1;
+        padding: 15px;
+    }
+
+        .image-card .description h3 {
+            margin: 0 0 10px;
+            font-size: 1.2rem;
+            color: #333;
+        }
+
+        .image-card .description p {
+            margin: 0;
+            font-size: 1rem;
+            color: #666;
+        }
+
+@media (max-width: 768px) {
+    .image-card {
+        flex-direction: column;
+        width: 100%;
+        text-align: center;
+    }
+
+        .image-card img {
+            width: 100%;
+            height: 200px;
+        }
+
+        .image-card .description {
+            padding: 10px;
+        }
+
+    .icon-container {
+        column-gap: 60px;
+        row-gap: 40px;
+    }
+
+    .gallery-section {
+        margin-bottom: 40px; /* Mobil için daha az boşluk */
+    }
+}

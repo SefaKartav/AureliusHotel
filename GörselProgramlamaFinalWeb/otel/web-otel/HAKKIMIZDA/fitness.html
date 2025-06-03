@@ -1,0 +1,299 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Spa & Fitness</title>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap" rel="stylesheet">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/gsap.min.js"></script>
+    <style>
+        body {
+            font-family: 'Poppins', sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f8f8f8;
+        }
+
+        .navbar {
+            background-color: #fff;
+            border-bottom: 1px solid #ddd;
+            padding: 15px 20px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+            .navbar a {
+                color: #333;
+                text-decoration: none;
+                font-size: 16px;
+                margin-right: 20px;
+                transition: color 0.3s;
+            }
+
+                .navbar a:hover {
+                    color: #ebef0c;
+                }
+
+                .navbar a.reservation {
+                    background-color: #ebef0c;
+                    color: #fff;
+                    padding: 10px 20px;
+                    border-radius: 5px;
+                    transition: background-color 0.3s;
+                }
+
+                    .navbar a.reservation:hover {
+                        background-color: #d6d80c;
+                    }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 40px;
+        }
+
+        .slider-section {
+            width: 100%;
+            height: 500px;
+            position: relative;
+            overflow: hidden;
+            border-radius: 8px;
+            box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+        }
+
+        .slider {
+            display: flex;
+            width: 600%;
+            height: 100%;
+            transition: transform 0.5s ease-in-out;
+        }
+
+        .slide {
+            width: 16.67%;
+            height: 100%;
+            background-color: #ddd;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+            .slide img {
+                width: 100%;
+                height: 100%;
+                object-fit: cover;
+                display: none;
+            }
+
+                .slide img.active {
+                    display: block;
+                }
+
+        .slider-nav {
+            position: absolute;
+            top: 50%;
+            transform: translateY(-50%);
+            background-color: rgba(255, 255, 255, 0.8);
+            border: none;
+            padding: 10px;
+            cursor: pointer;
+            font-size: 24px;
+            border-radius: 50%;
+            transition: background-color 0.3s;
+        }
+
+            .slider-nav:hover {
+                background-color: rgba(255, 255, 255, 0.9);
+            }
+
+        .prev {
+            left: 20px;
+        }
+
+        .next {
+            right: 20px;
+        }
+
+        .content-section h1 {
+            font-size: 32px;
+            color: #333;
+            margin-bottom: 20px;
+            text-align: center;
+        }
+
+        .content-section h2 {
+            font-size: 24px;
+            color: #333;
+            margin-bottom: 10px;
+        }
+
+        .content-section p {
+            font-size: 16px;
+            color: #555;
+            line-height: 1.6;
+            margin-bottom: 20px;
+        }
+
+        .schedule-section {
+            margin-top: 40px;
+        }
+
+            .schedule-section h2 {
+                font-size: 24px;
+                color: #333;
+                margin-bottom: 10px;
+            }
+
+        .schedule-table {
+            width: 100%;
+            border-collapse: collapse;
+            font-size: 16px;
+        }
+
+            .schedule-table th,
+            .schedule-table td {
+                padding: 12px 20px;
+                text-align: left;
+                border: 1px solid #ddd;
+            }
+
+            .schedule-table th {
+                background-color: #f0f0f0;
+                font-weight: 600;
+                width: 50%;
+            }
+
+            .schedule-table td {
+                color: #555;
+            }
+    </style>
+</head>
+<body>
+    <div class="navbar">
+        <a href="anasayfa.aspx">KONAKLAMA</a>
+        <a href="restoran.html">RESTORAN & BARLAR</a>
+        <a href="#">SPA & FİTNESS</a>
+        <a href="iletişim.html">İLETİŞİM</a>
+        <a href="/web-otel/otel.aspx" class="reservation">ANASAYFA</a>
+    </div>
+
+    <div class="container">
+        <div class="slider-section">
+            <div class="slider" id="slider">
+                <div class="slide"><img src="img2/fitness.jpg" class="active" alt="Fitness Resmi 1"></div>
+                <div class="slide"><img src="img2/fitness2.jpg" alt="Fitness Resmi 2"></div>
+                <div class="slide"><img src="img2/fitness3.jpg" alt="Fitness Resmi 3"></div>
+                <div class="slide"><img src="img2/fitness4.jpg" alt="Fitness Resmi 4"></div>
+                <div class="slide"><img src="img2/fitness5.jpg" alt="Fitness Resmi 5"></div>
+                <div class="slide"><img src="img2/fitness6.jpg" alt="Fitness Resmi 6"></div>
+            </div>
+            <button class="slider-nav prev" onclick="prevSlide()">❮</button>
+            <button class="slider-nav next" onclick="nextSlide()">❯</button>
+        </div>
+
+        <div class="content-section">
+            <h1>Spa & Fitness</h1>
+            <h2>Dinamik Bir Yaşam ve Sağlıklı Yaşam Palestra Health Club & SPA</h2>
+            <p>Profesyonel anlamda, uzman bir ekiple hizmet veren Palestra Health Club & SPA, Kaya İstanbul Fair & Convention bünyesinde yer alıyor. 2020 yılında hizmete giren, 2500 m²'lik teknolojik formda dizayn edilmiş Palestra Health Club & SPA, uzman eğitmenler eşliğinde, kişiye özel hazırlanan programlar ve geniş kapsamlı hizmetleriyle sağlıklı yaşamı destekliyor. "Palestra" Crunch Programı'nın yanı sıra eğlenceli formda tutulmasını sağlayan "Crunch Training" sistemiyle, sağlıklı yaşam hedeflerinize ulaşmanızı sağlıyor.</p>
+
+            <h2>Palestra'da Sağlıklı ve Formda Bir Yaşam</h2>
+            <p>Kendi bedenini sağlıklı bir şekilde güçlendirmek isteyen herkes için! Palestra Health Club & SPA'da, uzman eğitmenlerin rehberliğinde, sağlıklı yaşam hedeflerinize ulaşmanız için gerekli tüm imkanlar sunuluyor. Crunch Training, Yoga, Pilates, Spinning gibi birçok farklı programla, sağlıklı yaşam hedeflerinize ulaşmanız için size destek oluyoruz. Palestra Health Club & SPA, sağlıklı yaşamın kapılarını aralıyor!</p>
+
+            <h2>Bay ve Bayanlar için Özel Alanlar</h2>
+            <p>Türk Hamamı, Sauna, Buhar Odası, Macera Duşu, Isıtmalı Kapalı Havuz, Dinlenme Alanı, Masaj Odası, Cilt Bakım Odası, Fitness Merkezi, Stüdyolar, Vitamin Bar ve daha fazlası… Palestra Health Club & SPA'da, sağlıklı yaşam hedeflerinize ulaşmanız için her şey düşünülmüştür. Sağlıklı yaşam hedeflerinize ulaşmanız için Palestra Health Club & SPA'da, bay ve bayanlar için ayrı ayrı tasarlanmış alanlar mevcuttur.</p>
+        </div>
+
+        <div class="schedule-section">
+            <h2>Çalışma Saatleri</h2>
+            <table class="schedule-table">
+                <tr>
+                    <th>Sağlık Kulübü (Fitness)</th>
+                    <td>
+                        Hafta İçi: 07:30 - 22:00<br>
+                        Hafta Sonu: 07:30 - 22:00
+                    </td>
+                </tr>
+                <tr>
+                    <th>SPA</th>
+                    <td>
+                        Hafta İçi: 07:30 - 22:00<br>
+                        Hafta Sonu: 07:30 - 22:00
+                    </td>
+                </tr>
+            </table>
+        </div>
+    </div>
+
+    <script>
+        let currentSlide = 0;
+        const slider = document.getElementById('slider');
+        const totalSlides = slider.children.length;
+
+        function showSlide(index) {
+            if (index >= totalSlides) {
+                currentSlide = 0;
+            } else if (index < 0) {
+                currentSlide = totalSlides - 1;
+            } else {
+                currentSlide = index;
+            }
+            slider.style.transform = `translateX(-${currentSlide * 16.67}%)`;
+            const slides = slider.children;
+            for (let i = 0; i < slides.length; i++) {
+                slides[i].querySelector('img').classList.toggle('active', i === currentSlide);
+            }
+        }
+
+        function nextSlide() {
+            showSlide(currentSlide + 1);
+        }
+
+        function prevSlide() {
+            showSlide(currentSlide - 1);
+        }
+
+        setInterval(() => {
+            nextSlide();
+        }, 5000);
+
+        document.addEventListener('DOMContentLoaded', () => {
+            // Animate navbar links
+            gsap.from('.navbar a', {
+                opacity: 0,
+                y: -20,
+                duration: 0.8,
+                stagger: 0.1,
+                ease: 'power2.out'
+            });
+
+            // Animate slider section
+            gsap.from('.slider-section', {
+                opacity: 0,
+                scale: 0.9,
+                duration: 1.2,
+                ease: 'power2.out',
+                delay: 0.2
+            });
+
+            // Animate content section
+            gsap.from('.content-section h1, .content-section h2, .content-section p', {
+                opacity: 0,
+                y: 30,
+                duration: 1,
+                stagger: 0.2,
+                ease: 'power2.out',
+                delay: 0.4
+            });
+
+            // Animate schedule section
+            gsap.from('.schedule-section', {
+                opacity: 0,
+                y: 30,
+                duration: 1,
+                ease: 'power2.out',
+                delay: 0.6
+            });
+        });
+    </script>
+</body>
+</html>
